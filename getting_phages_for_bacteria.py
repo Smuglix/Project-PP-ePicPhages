@@ -114,6 +114,21 @@ output_df = merged_df[
 merged_df.to_csv('merged_interactions_and_taxon_info.csv', sep=',', index=False)
 
 
+def create_scientific_names_list(interactions_file):
+    scientific_names = []
+
+    # Read CSV file into DataFrame
+    interactions_df = pd.read_csv(interactions_file)
+
+    # Drop duplicates from the DataFrame based on host_taxon_id
+    unique_interactions_df = interactions_df.drop_duplicates(subset=['host_taxon_id'])
+
+    # Extract the scientific names into a list
+    scientific_names = unique_interactions_df['scientific_name'].tolist()
+
+    return scientific_names
+
+
 def create_bacteria_phages_dict(interactions_file, clusters_file):
     # Read CSV files into DataFrames
     interactions_df = pd.read_csv(interactions_file)
@@ -144,5 +159,4 @@ def create_bacteria_phages_dict(interactions_file, clusters_file):
 interactions_file = 'merged_interactions_and_taxon_info.csv'
 clusters_file = 'mvp_viral_clusters.txt'
 bacteria_phages_dict = create_bacteria_phages_dict(interactions_file, clusters_file)
-print(bacteria_phages_dict)
-
+scientific_names_list = create_scientific_names_list(interactions_file)
