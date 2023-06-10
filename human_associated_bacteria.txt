@@ -1,0 +1,3522 @@
+Escherichia coli
+Escherichia coli W26
+Escherichia coli 2720900
+Escherichia coli STEC_O31
+Escherichia coli KTE117
+Escherichia coli NCCP15647
+Escherichia coli P0304816.6
+Escherichia coli KTE138
+Escherichia coli SCD2
+Escherichia coli UMEA 3718-1
+Escherichia coli KTE163
+Escherichia coli KD2
+Escherichia coli AI27
+Escherichia coli 908573
+Escherichia coli TOP2662-3
+Escherichia coli TOP2662-2
+Escherichia coli TOP2652
+Escherichia coli TOP2662-4
+Escherichia coli TOP2662-1
+Escherichia coli AD30
+Escherichia coli 541-15
+Escherichia coli O111:H11 str. CVM9545
+Bacillus velezensis SQR9
+Escherichia coli DEC11C
+Escherichia coli DEC1A
+Escherichia coli DEC8D
+Escherichia coli DEC9B
+Escherichia coli TW06591
+Escherichia coli DEC11D
+Escherichia coli O26:H11 str. CFSAN001629
+Escherichia coli DEC4C
+Escherichia coli DEC1D
+Escherichia coli 2362-75
+Escherichia coli 3431
+Escherichia coli DEC2C
+Escherichia coli DEC12B
+Escherichia coli DEC11B
+Escherichia coli DEC3F
+Escherichia coli 4.0522
+Escherichia coli O103:H2 str. 12009
+Bacillus amyloliquefaciens LL3
+Salmonella enterica subsp. enterica serovar Muenster str. CFSAN004344
+Escherichia coli O157:H7 str. Sakai
+Escherichia coli O157:H7 str. EC869
+Escherichia coli O157:H7 str. EC4076
+Escherichia coli O157:H7 str. EC4113
+Escherichia coli O157:H7 str. EC4115
+Escherichia coli O157:H7 str. TW14359
+Escherichia coli O157:H7 str. EC4196
+Escherichia coli O157:H7 str. EC4501
+Escherichia coli O157:H7 str. 1125
+Escherichia coli O157:H7 str. EC4401
+Escherichia coli B93
+Escherichia coli PA40
+Escherichia coli EC1738
+Escherichia coli EC1734
+Escherichia coli PA22
+Escherichia coli O157:H7 str. 1044
+Escherichia coli B94
+Escherichia coli DEC4B
+Escherichia coli PA7
+Escherichia coli DEC3A
+Escherichia coli B26-1
+Escherichia coli O157:H7 str. EC508
+Escherichia coli B26-2
+Escherichia coli DEC3B
+Escherichia coli DEC4E
+Escherichia coli DEC3E
+Escherichia coli O157:H7 str. EC1212
+Escherichia coli 2534-86
+Escherichia coli O157:H7
+Bacillus amyloliquefaciens Y2
+Escherichia coli DEC9E
+Escherichia coli DEC7E
+Escherichia coli DEC7D
+Escherichia coli EC4100B
+Escherichia coli EPECa14
+Escherichia coli O26:H11 str. CVM10021
+Escherichia coli 3006
+Escherichia coli O145:H28 str. 4865/96
+Escherichia coli ATCC BAA-2196
+Escherichia coli O26:H11 str. CVM9952
+Escherichia coli KD1
+Escherichia coli KTE160
+Escherichia coli KTE174
+Escherichia coli KTE167
+Escherichia coli A25922R
+Escherichia coli DEC1E
+Escherichia coli O26:H11 str. CVM9942
+Escherichia coli EPECa12
+Escherichia coli 907391
+Escherichia coli KTE166
+Escherichia coli Bd5610_99
+Escherichia coli HM65
+Escherichia coli B7-2
+Escherichia coli STEC_MHI813
+Escherichia coli 75
+Escherichia coli DEC5D
+Escherichia coli TW09109
+Escherichia coli B85
+Escherichia coli B40-1
+Escherichia coli DEC4D
+Escherichia coli KTE13
+Escherichia coli B84
+Escherichia coli B105
+Escherichia coli DEC11E
+Escherichia coli B104
+Escherichia coli B103
+Escherichia coli DEC10F
+Escherichia coli Envira 8/11
+Escherichia coli PA47
+Escherichia coli T924_01
+Escherichia coli K-12
+Escherichia coli O157:H7 str. EC4206
+Escherichia coli NCCP15658
+Escherichia coli O157:H7 str. EC4042
+Escherichia coli 99.1781
+Escherichia coli 09BKT076207
+Escherichia coli B107
+Escherichia coli DEC4F
+Escherichia coli B95
+Escherichia coli DEC14B
+Escherichia coli DEC9D
+Escherichia coli B40-2
+Escherichia coli DEC3C
+Escherichia coli 1.2741
+Escherichia coli CB7326
+Escherichia coli 5.2239
+Escherichia coli B7-1
+Escherichia coli DEC4A
+Escherichia coli O145:H28 str. RM13516
+Escherichia coli O145:H28 str. RM12761
+Escherichia coli O157
+Bacillus glycinifermentans
+Escherichia coli 900105 (10e)
+Escherichia coli O157:H7 str. EDL933
+Shigella boydii CDC 3083-94
+Escherichia coli B49-2
+Escherichia coli DEC3D
+Escherichia coli Xuzhou21
+Bacillus amyloliquefaciens TA208
+Bacillus amyloliquefaciens XH7
+Escherichia coli HVH 186 (4-3405044)
+Escherichia coli 908632
+Escherichia coli KTE36
+Escherichia coli TOP2396-2
+Escherichia coli 907701
+Escherichia coli O25b:H4-ST131
+Bacillus subtilis subsp. subtilis
+Escherichia coli KTE108
+Bacillus velezensis NAU-B3
+Escherichia albertii TW07627
+Citrobacter freundii
+Escherichia coli UMEA 3155-1
+Escherichia coli LAU-EC6
+Escherichia coli ATCC 25922
+Escherichia coli KTE179
+Escherichia coli MS 119-7
+Escherichia coli HVH 151 (4-5755573)
+Escherichia coli 907446
+Escherichia coli LCT-EC52
+Escherichia coli UMEA 3190-1
+Escherichia coli APEC IMT5155
+Staphylococcus hyicus
+Escherichia coli B354
+Moraxella bovoculi
+Bacillus subtilis subsp. spizizenii TU-B-10
+Escherichia coli MP020980.2
+Klebsiella oxytoca 10-5243
+Klebsiella pneumoniae BIDMC 21
+Klebsiella pneumoniae BIDMC 41
+Escherichia coli HVH 46 (4-2758776)
+Escherichia coli 908519
+Klebsiella pneumoniae MGH 17
+Butyricicoccus pullicaecorum 1.2
+Shigella dysenteriae Sd197
+Lachnospiraceae bacterium 3_1_46FAA
+Escherichia coli HVH 12 (4-7653042)
+Escherichia coli DEC1C
+Klebsiella pneumoniae
+Bacillus sp. SDLI1
+Escherichia coli HVH 36 (4-5675286)
+Salmonella enterica
+Escherichia coli MS 21-1
+Escherichia coli IAI39
+Hafnia alvei
+Acinetobacter baumannii
+Serratia marcescens
+Salmonella enterica subsp. enterica serovar Tennessee str. CDC07-0191
+Salmonella enterica subsp. enterica serovar Tennessee str. TXSC_TXSC08-19
+Salmonella enterica subsp. enterica serovar Tennessee
+Escherichia coli 93.0624
+Escherichia coli HVH 108 (4-6924867)
+Staphylococcus aureus PM1
+Staphylococcus aureus subsp. aureus 21235
+Staphylococcus aureus subsp. aureus 21202
+Staphylococcus aureus
+Escherichia coli B093
+Acidaminococcus intestini RyC-MR95
+Escherichia coli B7A
+Escherichia coli O26:H11 str. 11368
+Escherichia coli O103:H2 str. CVM9450
+Escherichia coli 95JB1
+Escherichia coli HVH 162 (4-5627982)
+Shigella dysenteriae CDC 74-1112
+Escherichia coli O157:H7 str. FRIK2000
+Escherichia coli LAU-EC8
+Escherichia coli LAU-EC9
+Escherichia coli KTE124
+Escherichia coli HVH 139 (4-3192644)
+Escherichia coli MS 69-1
+Escherichia coli MS 153-1
+Escherichia coli HVH 217 (4-1022806)
+Escherichia coli ABU 83972
+Escherichia coli KTE203
+Escherichia coli HVH 221 (4-3136817)
+Escherichia coli DEC8C
+Escherichia coli OK1180
+Escherichia coli DEC12E
+Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633
+Escherichia coli O111:H11 str. CVM9455
+Escherichia coli O111:H- str. 11128
+Escherichia coli STEC_C165-02
+Escherichia coli O111:H11 str. CVM9553
+Escherichia coli HVH 136 (4-5970458)
+Escherichia coli STEC_7v
+Escherichia coli ATCC BAA-2219
+Shigella flexneri CCH060
+Shigella flexneri CDC 796-83
+Shigella boydii Sb227
+Streptococcus pyogenes
+Lactobacillus plantarum WCFS1
+Lactobacillus plantarum
+Escherichia coli KTE180
+Escherichia coli UTI89
+Escherichia coli APEC O1
+Escherichia coli IHE3034
+Escherichia coli S88
+Escherichia coli UM146
+Escherichia coli RS218
+Escherichia coli P4-NR
+Escherichia coli KTE109
+Escherichia coli O157:H43 str. T22
+Shigella boydii
+Escherichia coli DEC15D
+Escherichia coli KTE221
+Escherichia sp. KTE52
+Escherichia coli HVH 148 (4-3192490)
+Escherichia coli HVH 178 (4-3189163)
+Escherichia coli M718
+Escherichia coli P0299917.1
+Escherichia coli MP021552.8
+Streptococcus pyogenes HLJGAS12011
+Escherichia coli 1303
+Escherichia coli CFT073
+Escherichia coli O55:H7 str. RM12579
+Stenotrophomonas maltophilia K279a
+Escherichia coli O104:H4 str. 2009EL-2050
+Escherichia coli O104:H4 str. 2009EL-2071
+Escherichia coli H252
+Enterococcus gilvus ATCC BAA-350
+Escherichia coli KTE14
+Escherichia coli O104:H4 str. 2011C-3493
+Escherichia coli O104:H4 str. 11-4522
+Escherichia coli O104:H4 str. Ec11-4987
+Escherichia coli O104:H4 str. 11-4632 C1
+Escherichia coli O104:H4 str. 11-02281
+Escherichia coli O104:H4 str. 11-02033-1
+Escherichia coli O104:H4 str. 11-02318
+Escherichia coli O104:H4 str. 11-02030
+Escherichia coli O104:H4 str. 11-02093
+Escherichia coli O104:H4 str. 11-02913
+Escherichia coli O104:H4 str. 11-03439
+Escherichia coli O104:H4 str. 11-02092
+Escherichia coli O104:H4 str. 11-04080
+Escherichia coli O104:H4 str. 11-03943
+Escherichia coli O104:H4 str. H112180282
+Escherichia coli O104:H4 str. TY-2482
+Escherichia coli O104:H4 str. C227-11
+Escherichia coli HVH 43 (4-2173468)
+Escherichia coli KTE60
+Escherichia coli HVH 86 (4-7026218)
+Escherichia coli DEC6A
+Proteus hauseri ZMd44
+Escherichia sp. KTE114
+Escherichia coli KOEGE 73 (195a)
+Bacillus velezensis AS43.3
+Escherichia coli O157:H7 str. EC4486
+Staphylococcus aureus subsp. aureus 21196
+Staphylococcus aureus subsp. aureus 21310
+Staphylococcus aureus subsp. aureus 21195
+Staphylococcus aureus subsp. aureus IS-105
+Staphylococcus aureus M0602
+Staphylococcus aureus M0964
+Staphylococcus aureus M1170
+Staphylococcus aureus M1076
+Staphylococcus aureus M1466
+Staphylococcus aureus M0944
+Staphylococcus aureus M0280
+Staphylococcus aureus M1103
+Staphylococcus aureus M0328
+Staphylococcus aureus M0844
+Staphylococcus aureus M1060
+Staphylococcus aureus A9765
+Staphylococcus aureus subsp. aureus VRS7
+Staphylococcus aureus subsp. aureus VRS2
+Staphylococcus aureus subsp. aureus IS-M
+Staphylococcus aureus subsp. aureus VRS5
+Staphylococcus aureus A6300
+Staphylococcus aureus subsp. aureus VRS6
+Staphylococcus aureus subsp. aureus 21209
+Staphylococcus aureus A8819
+Staphylococcus aureus M0060
+Staphylococcus aureus M0270
+Staphylococcus aureus subsp. aureus VRS8
+Staphylococcus aureus A8796
+Staphylococcus aureus M0001
+Staphylococcus aureus subsp. aureus IS-111
+Staphylococcus aureus subsp. aureus 21178
+Staphylococcus aureus subsp. aureus 21189
+Staphylococcus aureus subsp. aureus MR1
+Staphylococcus aureus subsp. aureus CIG1165
+Staphylococcus aureus subsp. aureus CIG1057
+Staphylococcus aureus subsp. aureus CBD-635
+Staphylococcus aureus M0539
+Staphylococcus aureus subsp. aureus VRS1
+Staphylococcus aureus M0660
+Staphylococcus aureus M1481
+Staphylococcus aureus subsp. aureus VRS11a
+Yersinia enterocolitica LC20
+Bacillus atrophaeus 1942
+Bacillus atrophaeus
+Bacillus subtilis subsp. globigii
+Pseudomonas aeruginosa C51
+Pseudomonas aeruginosa
+Enterococcus durans
+Oxalobacter formigenes HOxBLS
+Clostridioides difficile
+Escherichia coli E1520
+Escherichia coli DEC14C
+Escherichia coli KTE38
+Escherichia coli KTE37
+Escherichia coli HVH 80 (4-2428830)
+Lactobacillus casei DSM 20011 = JCM 1134
+Lactobacillus casei subsp. casei ATCC 393
+Streptococcus pneumoniae Hungary19A-6
+Mogibacterium sp. CM50
+Pediococcus claussenii
+Escherichia coli KO11FL
+Escherichia coli W
+Acinetobacter baumannii OIFC180
+Acinetobacter baumannii 1656-2
+Acinetobacter baumannii DU202
+Bacillus subtilis subsp. natto
+Escherichia coli KTE116
+Salmonella enterica subsp. enterica serovar Weltevreden str. 1655
+Clostridium botulinum Ba4 str. 657
+Haemophilus influenzae F3047
+Escherichia coli 2726800
+Pseudomonas aeruginosa 9BR
+Pseudomonas aeruginosa 19BR
+Pseudomonas aeruginosa 213BR
+Acinetobacter venetianus RAG-1 = CIP 110063
+Escherichia coli DEC13C
+Escherichia coli P0304777.1
+Escherichia coli 95.0943
+Escherichia coli B108
+Escherichia coli B102
+Escherichia coli 99.1753
+Escherichia coli O111:H8 str. CVM9602
+Escherichia coli O104:H4 str. GOS2
+Escherichia coli ATCC BAA-2209
+Escherichia coli 99.1775
+Escherichia coli TW11039
+Escherichia coli TW10246
+Enterobacter sp. MGH 8
+Enterobacter sp. MGH 26
+Lachnospiraceae bacterium 28-4
+Escherichia coli str. Sanji
+Enterococcus faecalis D32
+Enterococcus faecalis
+Escherichia coli KTE6
+Escherichia coli HVH 154 (4-5636698)
+Escherichia coli 907892
+Escherichia coli O127:H6 str. E2348/69
+Escherichia coli UMEA 3175-1
+Escherichia coli KTE137
+Escherichia coli KTE157
+Escherichia coli UMEA 3212-1
+Escherichia coli UMEA 3203-1
+Lachnospiraceae bacterium 7_1_58FAA
+Escherichia coli MS 84-1
+Escherichia coli HS
+Lactobacillus gasseri ATCC 33323 = JCM 1131
+Escherichia coli RN587/1
+Escherichia sp. TW09308
+Necropsobacter rosorum
+Eubacterium limosum KIST612
+Escherichia coli HVH 155 (4-4509048)
+Escherichia coli KTE200
+Escherichia coli KTE39
+Escherichia coli HM605
+Streptococcus pseudopneumoniae IS7493
+Lactococcus lactis subsp. lactis Il1403
+Lactococcus lactis subsp. lactis bv. diacetylactis str. LD61
+Escherichia coli HVH 205 (4-3094677)
+Alcaligenes faecalis subsp. faecalis NBRC 13111
+Fusobacterium hwasookii ChDC F206
+Pseudomonas fragi A22
+Escherichia coli HVH 95 (4-6074464)
+Rhodococcus sp. 2G
+Deinococcus wulumuqiensis R12
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476
+Salmonella enterica subsp. enterica serovar Newport str. CVM 21550
+Streptococcus agalactiae SS1014
+Escherichia coli KTE1
+Escherichia coli KTE111
+Salmonella enterica subsp. enterica serovar Newport str. SL254
+Salmonella enterica subsp. enterica serovar Newport str. CVM 22513
+Salmonella enterica subsp. enterica serovar Newport str. CVM 21538
+Salmonella enterica subsp. enterica serovar Newport str. CVM 22425
+Salmonella enterica subsp. enterica serovar Newport str. CVM N18486
+Salmonella enterica subsp. enterica serovar Newport str. CVM N1543
+Salmonella enterica subsp. enterica serovar Newport str. CVM 22462
+Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1
+Pseudomonas aeruginosa DHS29
+Pseudomonas aeruginosa CI27
+Pseudomonas aeruginosa DHS01
+Escherichia coli KTE83
+Pectobacterium carotovorum subsp. odoriferum
+Escherichia coli O104:H4 str. Ec11-4988
+Escherichia coli O104:H4 str. 11-3677
+Escherichia coli O104:H4 str. Ec11-9941
+Escherichia coli O104:H4 str. H112180280
+Escherichia coli O104:H4 str. Ec11-9990
+Escherichia coli O104:H4 str. 11-4632 C4
+Escherichia coli O104:H4 str. E92/11
+Escherichia coli O104:H4 str. GOS1
+Escherichia coli O104:H4 str. 11-4623
+Escherichia coli 95NR1
+Clostridium butyricum
+Lactobacillus delbrueckii subsp. bulgaricus ND02
+Escherichia coli DEC9C
+Pseudomonas aeruginosa BL13
+Selenomonas noxia ATCC 43541
+Escherichia coli HVH 173 (3-9175482)
+Escherichia coli HVH 110 (4-6978754)
+Escherichia coli HVH 63 (4-2542528)
+Escherichia coli KOEGE 62 (175a)
+Escherichia coli HVH 106 (4-6881831)
+Escherichia coli KTE120
+[Clostridium] symbiosum WAL-14163
+Escherichia coli HVH 163 (4-4697553)
+Escherichia coli O157:H7 str. EC4045
+Escherichia coli DEC8B
+Escherichia coli O111:H8 str. CFSAN001632
+Escherichia coli HVH 215 (4-3008371)
+Escherichia coli HM69
+Escherichia coli HVH 134 (4-6073441)
+Escherichia coli HVH 206 (4-3128229)
+Escherichia coli HVH 208 (4-3112292)
+Escherichia coli HVH 122 (4-6851606)
+Escherichia coli UMN026
+Escherichia coli HVH 29 (4-3418073)
+Escherichia coli HVH 140 (4-5894387)
+Escherichia coli HVH 85 (4-0792144)
+Enterococcus faecium D344SRF
+Enterococcus faecium
+Lactobacillus paracasei N1115
+Acinetobacter baumannii NIPH 410
+Megasphaera elsdenii 14-14
+Escherichia coli KTE193
+Escherichia coli DEC15A
+Escherichia coli KTE127
+Escherichia coli HVH 169 (4-1075578)
+Escherichia coli HVH 167 (4-6073565)
+Escherichia coli str. 'clone D i2'
+Escherichia coli HVH 89 (4-5885604)
+Escherichia coli P0304777.14
+Escherichia coli KTE88
+Escherichia coli E128010
+Streptococcus parauberis KCTC 11537
+Escherichia coli 9.0111
+Escherichia coli 1.2264
+Peptoniphilus sp. oral taxon 375 str. F0436
+Pandoraea norimbergensis
+Fusobacterium hwasookii ChDC F300
+Pantoea sp. NGS-ED-1003
+Citrobacter amalonaticus Y19
+Pseudomonas sp. TKP
+Escherichia coli KTE112
+Escherichia coli EPEC C342-62
+Escherichia coli KTE216
+Escherichia coli 5.0959
+Escherichia coli JB1-95
+Megasphaera sp. NM10
+Megasphaera sp. BL7
+Subdoligranulum sp. 4_3_54A2FAA
+Megasphaera micronuciformis F0359
+Escherichia coli TW07793
+Escherichia coli WV_060327
+Shigella sonnei 53G
+Salmonella enterica subsp. enterica serovar Paratyphi A
+Escherichia coli Nissle 1917
+Gordonia malaquae NBRC 108250
+Bilophila wadsworthia ATCC 49260
+Lactococcus lactis subsp. lactis Dephy 1
+Streptococcus constellatus subsp. pharyngis C232
+Streptococcus constellatus subsp. pharyngis C1050
+Streptococcus constellatus subsp. pharyngis C818
+Escherichia coli ATCC BAA-2215
+Escherichia coli MS 124-1
+Escherichia coli MS 85-1
+Escherichia coli KTE126
+Escherichia coli KTE85
+Escherichia coli KTE129
+Clostridium botulinum H04402 065
+Cronobacter sakazakii 680
+Cronobacter sakazakii
+Escherichia coli O145:H28 str. RM13514
+Escherichia coli O145:H28 str. RM12581
+Ruminococcus torques ATCC 27756
+Escherichia coli JJ1886
+Streptococcus pyogenes GA19702
+Bacteroides finegoldii CL09T03C10
+Salmonella enterica subsp. enterica serovar Paratyphi B str. ATCC 19940
+Staphylococcus aureus subsp. aureus str. JKD6008
+Staphylococcus aureus subsp. aureus IS-157
+Staphylococcus aureus subsp. aureus str. JKD6009
+Staphylococcus aureus subsp. aureus 091751
+Staphylococcus aureus 16K
+Staphylococcus aureus subsp. aureus M809
+Staphylococcus aureus subsp. aureus C101
+Staphylococcus aureus subsp. aureus M1015
+Staphylococcus aureus subsp. aureus M899
+Staphylococcus aureus subsp. aureus T0131
+Pseudomonas mosselii SJ10
+Enterococcus durans ATCC 6056
+Lactobacillus paracasei
+Escherichia coli O157:H7 str. SS17
+Escherichia coli O157:H7 str. SS52
+Staphylococcus aureus subsp. aureus IS-3
+Escherichia albertii
+Escherichia coli KTE5
+Pseudomonas aeruginosa BL25
+Staphylococcus aureus RF122
+Pseudomonas sp. M1
+Staphylococcus aureus subsp. aureus CIG1267
+Staphylococcus aureus subsp. aureus 21264
+Staphylococcus aureus subsp. aureus CIG149
+Staphylococcus aureus subsp. aureus CIG1176
+Staphylococcus aureus subsp. aureus 21345
+Staphylococcus aureus subsp. aureus 21283
+Staphylococcus aureus subsp. aureus MRSA252
+Escherichia coli 97.0246
+Escherichia coli O26:H11 str. CVM10224
+Escherichia coli O26:H11 str. CVM10030
+Escherichia coli BL21(DE3)
+Escherichia coli 'BL21-Gold(DE3)pLysS AG'
+Escherichia coli B
+Shigella sp. PAMC 28760
+Escherichia coli O111:H8 str. CVM9570
+Escherichia coli O111:H8 str. CVM9574
+Staphylococcus aureus subsp. aureus 55/2053
+Haemophilus haemolyticus M21639
+Escherichia coli KTE7
+Escherichia coli KTE71
+Staphylococcus aureus subsp. aureus IS-24
+Staphylococcus aureus A9754
+Staphylococcus aureus HI049C
+Staphylococcus aureus HI022
+Staphylococcus aureus HI010
+Staphylococcus aureus subsp. aureus USA300_TCH1516
+Staphylococcus aureus HI013
+Staphylococcus aureus HI049B
+Staphylococcus aureus subsp. aureus USA300_FPR3757
+Staphylococcus aureus HI168
+Staphylococcus aureus HI049
+Staphylococcus aureus subsp. aureus IS-91
+Staphylococcus aureus subsp. aureus JKD6159
+Staphylococcus aureus M0531
+Staphylococcus aureus HI010B
+Staphylococcus aureus subsp. aureus CGS01
+Staphylococcus aureus subsp. aureus CO-23
+Staphylococcus aureus KT/314250
+Staphylococcus aureus subsp. aureus IS-88
+Staphylococcus aureus subsp. aureus CIG2018
+Staphylococcus aureus USA300-ISMMS1
+Staphylococcus aureus subsp. aureus
+Lactobacillus rhamnosus GG
+Lactobacillus rhamnosus
+Enterococcus gallinarum
+Bacillus subtilis subsp. subtilis str. AUSI98
+Bacillus gibsonii
+Bacillus sp. FJAT-14266
+Shigella flexneri 1a
+Shigella flexneri 4c
+Lactobacillus gallinarum
+Lactococcus lactis subsp. lactis KF147
+Escherichia coli SCI-07
+Anaerococcus provenciensis
+Clostridium botulinum A2 str. Kyoto
+Salmonella enterica subsp. enterica serovar Senftenberg str. ATCC 43845
+Salmonella enterica subsp. enterica serovar Hadar str. ATCC 51956
+Salmonella enterica subsp. enterica serovar Cubana str. CFSAN002050
+Salmonella enterica subsp. enterica serovar Newport str. WA_14882
+Salmonella enterica subsp. enterica serovar Albany str. ATCC 51960
+Salmonella enterica subsp. enterica serovar Newport str. CVM 21554
+Salmonella enterica subsp. enterica serovar Anatum str. ATCC BAA-1592
+Salmonella enterica subsp. enterica serovar Agona str. 24249
+Salmonella enterica subsp. enterica serovar Anatum str. CDC 06-0532
+Salmonella enterica subsp. enterica serovar Thompson
+Escherichia coli 907700
+Staphylococcus aureus subsp. aureus N315
+Staphylococcus aureus subsp. aureus ECT-R 2
+Klebsiella pneumoniae subsp. pneumoniae KPNIH5
+Klebsiella pneumoniae subsp. pneumoniae KPNIH6
+Klebsiella pneumoniae subsp. pneumoniae KPNIH18
+Klebsiella pneumoniae subsp. pneumoniae ST258-K26BO
+Yersinia enterocolitica subsp. palearctica Y11
+Streptococcus mitis B6
+Escherichia coli KOEGE 10 (25a)
+Escherichia coli DEC7C
+Pectobacterium atrosepticum SCRI1043
+Anaerotruncus colihominis DSM 17241
+Lactobacillus paraplantarum
+Burkholderia pseudomallei
+Shigella flexneri 2a str. 301
+Campylobacter concisus UNSW2
+Stenotrophomonas maltophilia AU12-09
+Escherichia coli TW10722
+Enterobacter hormaechei subsp. steigerwaltii
+Escherichia coli BCE007_MS-11
+Corynebacterium vitaeruminis DSM 20294
+Escherichia coli DEC7A
+Staphylococcus aureus LVP2
+Staphylococcus aureus 3957
+Staphylococcus aureus subsp. aureus ST772-MRSA-V
+Staphylococcus aureus subsp. aureus Mu3
+Cronobacter malonaticus LMG 23826
+Escherichia coli DEC12A
+Cedecea neteri
+Staphylococcus aureus subsp. aureus Mu50
+Shigella flexneri 2a str. 2457T
+Shigella flexneri 2003036
+Shigella flexneri Shi06HN006
+Shigella flexneri 2a
+Collinsella tanakaei YIT 12063
+Prevotella timonensis CRIS 5C-B1
+Acinetobacter lwoffii WJ10621
+Neisseria meningitidis
+Staphylococcus aureus subsp. aureus CIG1769
+Proteus mirabilis
+Streptococcus sp. CM6
+Streptococcus pyogenes HSC5
+Shigella dysenteriae 1617
+Mobiluncus curtisii ATCC 43063
+Escherichia coli HVH 213 (4-3042928)
+Listeria monocytogenes
+Listeria monocytogenes J1816
+Escherichia coli DEC8A
+Escherichia coli O121:H19 str. MT#2
+Escherichia coli O104:H4 str. Ec12-0466
+Klebsiella variicola
+Listeria monocytogenes 08-5923
+Listeria monocytogenes 08-5578
+Listeria monocytogenes serotype 1/2a str. 08-6569
+Listeria monocytogenes serotype 1/2a str. 08-6997
+Listeria monocytogenes serotype 1/2a str. 10-0815
+Listeria monocytogenes serotype 1/2a str. 10-1047
+Listeria monocytogenes serotype 1/2a str. 88-0478
+Bacillus velezensis UCMB5033
+Escherichia coli STEC_EH250
+Actinotignum urinale DSM 15805
+Ruminococcus sp. 5_1_39BFAA
+Staphylococcus aureus subsp. aureus 11819-97
+Staphylococcus aureus SA16
+Escherichia coli 2871950
+Escherichia coli 042
+Bacillus coagulans
+Delftia acidovorans CCUG 274B
+Paraprevotella clara YIT 11840
+Lactobacillus plantarum 16
+Salmonella enterica subsp. enterica serovar Saintpaul str. SARA26
+Hafnia alvei ATCC 51873
+Fusobacterium nucleatum subsp. vincentii 3_1_36A2
+Lachnoclostridium sp. YL32
+Alcaligenes sp. HPC1271
+Klebsiella pneumoniae subsp. pneumoniae
+Enterococcus avium ATCC 14025
+Clostridium botulinum CDC_1436
+Streptococcus anginosus subsp. whileyi CCUG 39159
+Streptococcus anginosus C238
+Streptococcus agalactiae ILRI005
+Escherichia coli O104:H4 str. 11-4404
+Escherichia coli O7:K1 str. CE10
+Acinetobacter johnsonii XBB1
+Pseudomonas citronellolis
+Pseudomonas aeruginosa C52
+Escherichia coli str. 'clone D i14'
+Streptococcus pneumoniae 670-6B
+Escherichia coli LAU-EC7
+Streptococcus agalactiae GB00092
+Streptococcus agalactiae GB00954
+Lactococcus lactis subsp. cremoris SK11
+Pseudomonas aeruginosa BL08
+Pseudomonas aeruginosa PABL056
+Escherichia coli KTE72
+Escherichia coli KTE132
+Escherichia coli KTE75
+Staphylococcus aureus subsp. aureus ST398
+Pseudomonas aeruginosa BWHPSA002
+Rhodobacter sphaeroides ATCC 17025
+Salmonella enterica subsp. enterica
+Pseudomonas aeruginosa str. Stone 130
+Escherichia coli UMEA 3201-1
+Escherichia coli KTE40
+Shigella flexneri
+Shigella flexneri G1663
+Escherichia coli UMEA 3329-1
+Lactococcus lactis subsp. cremoris A76
+Staphylococcus aureus M0340
+Staphylococcus aureus M0831
+Staphylococcus aureus M0424
+Staphylococcus aureus M1007
+Staphylococcus aureus subsp. aureus CIG1612
+Staphylococcus aureus subsp. aureus CIG1770
+Staphylococcus aureus subsp. aureus CIG1114
+Staphylococcus aureus M0055
+Staphylococcus aureus M1064
+Burkholderia ubonensis
+Staphylococcus aureus subsp. aureus MW2
+Staphylococcus aureus subsp. aureus CIG1835
+Staphylococcus aureus subsp. aureus TCH70
+Pseudomonas stutzeri
+Lactobacillus paracasei subsp. paracasei Lpp37
+Lactobacillus casei BL23
+Lactobacillus casei BD-II
+Lactobacillus casei W56
+Escherichia coli ED1a
+Escherichia coli DEC5A
+Escherichia coli TW00353
+Escherichia coli DEC5B
+Escherichia coli 4.0967
+Burkholderia cenocepacia
+Escherichia coli UMEA 3140-1
+Escherichia coli UMNK88
+Escherichia coli O104:H4 str. 04-8351
+Escherichia coli OK1357
+Klebsiella pneumoniae subsp. pneumoniae KPNIH10
+Klebsiella pneumoniae subsp. pneumoniae KPNIH1
+Escherichia coli O104:H4 str. Ec11-5604
+Bacillus sp. YP1
+Escherichia coli O104:H4 str. Ec11-6006
+Escherichia coli O104:H4 str. Ec11-4986
+Bacillus subtilis TO-A
+Streptococcus pyogenes JRS4
+Staphylococcus epidermidis NIH051668
+Staphylococcus aureus subsp. aureus TW20
+Enterobacter cloacae ECNIH2
+Lactobacillus paracasei subsp. paracasei 8700:2
+Streptococcus pneumoniae GA14688
+Streptococcus pneumoniae JJA
+Lactobacillus plantarum subsp. plantarum P-8
+Escherichia coli 3.3884
+Pseudomonas aeruginosa M18
+Enterococcus faecium C68
+Escherichia coli E22
+Escherichia coli O104:H4 str. Ec11-9450
+Escherichia coli P0299438.2
+Raoultella ornithinolytica
+Escherichia coli O104:H4 str. Ec11-5603
+[Clostridium] citroniae WAL-17108
+Delftia sp. Cs1-4
+Escherichia coli O104:H4 str. 11-4632 C3
+Shigella sonnei 4822-66
+Shigella sonnei 3233-85
+Shigella sonnei str. Moseley
+Shigella sonnei
+Escherichia coli JJ1887
+Bacteroides coprocola DSM 17136
+Salmonella bongori N268-08
+Lachnospiraceae bacterium 3-2
+Eubacterium limosum
+Shigella flexneri 2002017
+Escherichia coli O104:H4 str. 11-4632 C2
+Escherichia coli O104:H4 str. Ec12-0465
+Pseudomonas aeruginosa AH16
+Pseudomonas aeruginosa LCT-PA102
+Pseudomonas aeruginosa BL24
+Pseudomonas aeruginosa BWHPSA003
+Pseudomonas aeruginosa BWHPSA017
+Pseudomonas aeruginosa 18A
+Pseudomonas aeruginosa MSH10
+Pseudomonas aeruginosa MSH3
+Escherichia coli O104:H4 str. 09-7901
+Escherichia coli O104:H4 str. E112/10
+Citrobacter freundii CFNIH1
+Enterococcus raffinosus ATCC 49464
+Escherichia coli O45:H2 str. 03-EN-705
+Escherichia coli UMEA 3304-1
+Escherichia coli O104:H4 str. 11-4632 C5
+Intestinimonas butyriciproducens
+Escherichia coli O104:H4 str. C236-11
+Clostridium sp. ASBs410
+Escherichia coli O104:H4 str. Ec11-4984
+Klebsiella sp. KTE92
+[Eubacterium rectale] ATCC 33656
+Escherichia coli O55:H7 str. CB9615
+Escherichia coli DEC5C
+Escherichia coli O111:H8 str. CVM9634
+Rhodobacter sphaeroides KD131
+Kingella oralis ATCC 51147
+Escherichia coli ATCC 8739
+Staphylococcus aureus subsp. aureus HO 5096 0412
+Citrobacter sedlakii NBRC 105722
+Bacillus vallismortis DV1-F-3
+Dialister succinatiphilus YIT 11850
+Exiguobacterium sp. AT1b
+Acinetobacter johnsonii SH046
+Varibaculum cambriense DORA_20
+Listeria monocytogenes J0161
+Listeria monocytogenes J2818
+Escherichia coli O25b:H4
+Escherichia coli ETEC H10407
+Lactobacillus hominis DSM 23910 = CRBIP 24.179
+Escherichia coli UMEA 3052-1
+Bifidobacterium dentium JCVIHMP022
+Atopobium sp. oral taxon 199 str. F0494
+Escherichia coli E110019
+Burkholderia sp. 2002721687
+Burkholderia sp. Bp5365
+Staphylococcus agnetis
+Serratia liquefaciens ATCC 27592
+Pseudomonas aeruginosa PA7
+Klebsiella pneumoniae subsp. pneumoniae Kp13
+Staphylococcus aureus subsp. aureus 21272
+Mobiluncus mulieris ATCC 35243
+Lactobacillus plantarum ZJ316
+Escherichia coli TW10119
+Enterococcus faecium Aus0004
+Parasutterella excrementihominis YIT 11859
+Escherichia coli B str. REL606
+Staphylococcus aureus subsp. aureus SA268
+Salmonella enterica subsp. enterica serovar Agona str. SL483
+Salmonella enterica subsp. enterica serovar Agona str. 460004 2-1
+Salmonella enterica subsp. enterica serovar Agona str. 392869-2
+Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002064
+Salmonella enterica subsp. enterica serovar Heidelberg
+Staphylococcus aureus Bmb9393
+Staphylococcus aureus subsp. aureus 06BA18369
+Clostridium botulinum A str. ATCC 3502
+Staphylococcus aureus CA-347
+Pseudomonas putida ND6
+Escherichia coli HVH 127 (4-7303629)
+Escherichia coli DEC9A
+Pseudomonas aeruginosa VRFPA06
+Blautia hydrogenotrophica DSM 10507
+Staphylococcus aureus subsp. aureus NCTC 8325
+Haemophilus influenzae
+Proteus mirabilis BB2000
+Bacillus subtilis subsp. natto BEST195
+Escherichia coli HVH 42 (4-2100061)
+Escherichia coli HVH 55 (4-2646161)
+Escherichia coli HVH 13 (4-7634056)
+Anaerococcus hydrogenalis DSM 7454
+Escherichia coli HVH 16 (4-7649002)
+Staphylococcus aureus subsp. aureus Z172
+Staphylococcus aureus subsp. aureus 21343
+Bacteroides sp. 1_1_30
+Bacteroides stercoris ATCC 43183
+Escherichia coli O83:H1 str. NRG 857C
+Chelativorans sp. BNC1
+Oscillibacter sp. KLE 1745
+Lachnospiraceae bacterium 5_1_57FAA
+Bacteroides cellulosilyticus CL02T12C19
+Bacteroides dorei
+Aggregatibacter aphrophilus NJ8700
+Staphylococcus aureus subsp. aureus 21282
+Staphylococcus aureus subsp. aureus str. Newman
+Staphylococcus aureus M1016
+Staphylococcus aureus M1374
+Staphylococcus aureus M1068
+Staphylococcus aureus M0460
+Staphylococcus aureus M1463
+Staphylococcus aureus M0075
+Staphylococcus aureus M1062
+Staphylococcus aureus M0673
+Staphylococcus aureus M1198
+Staphylococcus aureus M1248
+Escherichia coli UMEA 3215-1
+Pseudomonas putida SJTE-1
+Escherichia coli M605
+Bilophila wadsworthia 3_1_6
+Xanthomonas oryzae pv. oryzicola
+Bacillus velezensis YAU B9601-Y2
+Bacillus sp. BH072
+Pseudomonas aeruginosa MTB-1
+Lachnospiraceae bacterium 1_4_56FAA
+Haemophilus influenzae F3031
+Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853
+Streptococcus pyogenes MGAS10270
+Lactobacillus salivarius
+Staphylococcus aureus M1119
+Delftia acidovorans SPH-1
+Escherichia coli P0302308.2
+Clostridium botulinum CDC_297
+Klebsiella pneumoniae subsp. pneumoniae PittNDM01
+Neisseria meningitidis 2001068
+Neisseria meningitidis 2002004
+Neisseria meningitidis NM3147
+Neisseria meningitidis 2001073
+Neisseria meningitidis NM313
+Neisseria meningitidis NM82
+Neisseria meningitidis NM35
+Neisseria meningitidis NM95
+Neisseria meningitidis 2000081
+Neisseria meningitidis NM1495
+Neisseria meningitidis 73704
+Neisseria meningitidis 961-5945
+Neisseria meningitidis 2005079
+Neisseria meningitidis NM133
+Neisseria meningitidis NM43
+Neisseria meningitidis NM94
+Neisseria meningitidis G2136
+Neisseria meningitidis M7124
+Klebsiella variicola At-22
+Escherichia coli KTE113
+Escherichia coli UMEA 3617-1
+Staphylococcus aureus M0104
+Staphylococcus aureus M1061
+Escherichia coli H30
+Escherichia coli UMEA 3206-1
+Escherichia coli KTE105
+Escherichia coli KTE97
+Escherichia coli PCN061
+Yersinia enterocolitica subsp. enterocolitica 8081
+Klebsiella pneumoniae BIDMC 12C
+Serratia sp. YD25
+Alcaligenes faecalis subsp. faecalis NCIB 8687
+Sutterella wadsworthensis 2_1_59BFAA
+Escherichia coli O157:H7 str. TW14588
+Serratia plymuthica 4Rx13
+Veillonella seminalis ACS-216-V-Col6b
+Streptococcus pyogenes MGAS10394
+Shigella dysenteriae 225-75
+Escherichia coli DEC6B
+Bacillus subtilis S1-4
+Staphylococcus aureus subsp. aureus MSSA476
+Anaerostipes caccae DSM 14662
+Bacillus subtilis XF-1
+Bacillus subtilis subsp. subtilis str. BAB-1
+Bacillus subtilis HJ5
+Bacillus subtilis PS216
+Escherichia coli KTE214
+Escherichia coli HVH 104 (4-6977960)
+Clostridium botulinum A3 str. Loch Maree
+Lachnospiraceae bacterium 1_1_57FAA
+Haemophilus influenzae 86-028NP
+Pseudomonas aeruginosa BL19
+[Clostridium asparagiforme] DSM 15981
+Bifidobacterium scardovii
+Bifidobacterium scardovii JCM 12489 = DSM 13734
+Escherichia coli HVH 170 (4-3026949)
+Enterococcus silesiacus
+Escherichia coli HVH 25 (4-5851939)
+Faecalibacterium cf. prausnitzii KLE1255
+Escherichia coli HVH 84 (4-1021478)
+Escherichia coli HVH 176 (4-3428664)
+Escherichia coli KTE49
+Escherichia coli HVH 90 (4-3191362)
+Escherichia coli HVH 146 (4-3189767)
+Escherichia coli KTE178
+Escherichia coli HVH 202 (4-3163997)
+Escherichia coli HVH 141 (4-5995973)
+Escherichia coli BIDMC 38
+Escherichia coli HVH 177 (4-2876612)
+Escherichia coli 907779
+Escherichia coli 908691
+Escherichia coli HVH 17 (4-7473087)
+Neisseria gonorrhoeae
+Lactococcus lactis subsp. cremoris MG1363
+Lactococcus lactis subsp. cremoris NZ9000
+Geobacillus kaustophilus HTA426
+Escherichia coli P12b
+Mobiluncus curtisii subsp. curtisii ATCC 35241
+Peptostreptococcus anaerobius VPI 4330 = DSM 2949
+Haemophilus influenzae 10810
+Corynebacterium simulans
+Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088
+Corynebacterium striatum ATCC 6940
+Escherichia coli O111:H11 str. CFSAN001630
+Salmonella enterica subsp. enterica serovar Typhi
+Bacillus subtilis subsp. subtilis str. OH 131.1
+Campylobacter coli 67-8
+Campylobacter coli RM4661
+Corynebacterium resistens DSM 45100
+Streptococcus pneumoniae ST556
+Kluyvera intermedia
+Achromobacter arsenitoxydans SY8
+Neisseria meningitidis alpha710
+Shewanella baltica OS223
+Staphylococcus pasteuri SP1
+Finegoldia magna ATCC 53516
+Lactococcus lactis subsp. lactis KLDS 4.0325
+Bacillus subtilis gtP20b
+Bacillus subtilis subsp. inaquosorum
+Escherichia coli KTE144
+Lactococcus lactis subsp. lactis NCDO 2118
+Serratia fonticola
+Planococcus sp. L10.15
+Yersinia enterocolitica IP 10393
+Yersinia enterocolitica (type O:3) str. YE12/03
+Yersinia enterocolitica subsp. palearctica PhRBD_Ye1
+Streptococcus agalactiae
+Lactobacillus crispatus MV-3A-US
+Rahnella sp. Y9602
+Pseudomonas aeruginosa VRFPA08
+Streptococcus pyogenes str. Manfredo
+Escherichia coli KTE196
+Bacillus clausii KSM-K16
+[Clostridium] symbiosum ATCC 14940
+Rummeliibacillus stabekisii
+Lactobacillus crispatus FB077-07
+Escherichia coli DEC8E
+Escherichia coli HVH 153 (3-9344314)
+Campylobacter jejuni subsp. jejuni 51494
+Campylobacter jejuni
+Pseudomonas aeruginosa NCGM2.S1
+Escherichia coli UMEA 3087-1
+Anaerococcus tetradius ATCC 35098
+Delftia acidovorans CCUG 15835
+Streptococcus pneumoniae 27
+Lactobacillus crispatus MV-1A-US
+Escherichia coli 07798
+Pectobacterium wasabiae CFBP 3304
+Blautia sp. YL58
+Escherichia coli UMEA 3148-1
+Klebsiella pneumoniae UHKPC59
+Enterococcus malodoratus ATCC 43197
+Prevotella sp. F0091
+Lactobacillus harbinensis DSM 16991
+Pantoea sp. At-9b
+Salmonella enterica subsp. enterica serovar Montevideo str. 507440-20
+Streptococcus agalactiae LMG 15089
+Streptococcus agalactiae GB00865
+Neisseria meningitidis alpha14
+Leuconostoc lactis
+Burkholderia gladioli
+Burkholderia multivorans
+Ruminococcus callidus ATCC 27760
+Veillonella atypica KON
+Clostridium botulinum B1 str. Okra
+Streptococcus sp. F0442
+Campylobacter coli 37/05
+Campylobacter coli H6
+Campylobacter coli
+Pseudomonas putida F1
+Escherichia coli UMEA 3174-1
+Clostridium sp. 7_3_54FAA
+Campylobacter jejuni subsp. jejuni LMG 9872
+Campylobacter jejuni subsp. jejuni 1997-10
+Thermus sp. 2.9
+Erwinia sp. Ejp617
+Serratia odorifera DSM 4582
+Staphylococcus aureus subsp. aureus ED98
+Weissella cibaria
+Staphylococcus aureus subsp. aureus CN1
+Streptococcus agalactiae BSU165
+Escherichia coli SE11
+Neisseria meningitidis NM23
+Neisseria meningitidis NM32
+Streptococcus pyogenes MGAS8232
+Escherichia coli IAI1
+Rahnella aquatilis HX2
+Pediococcus acidilactici DSM 20284
+Streptococcus agalactiae CCUG 30636
+Streptococcus agalactiae FSL S3-023
+Streptococcus agalactiae CCUG 49100
+Streptococcus agalactiae str. Gottschalk 992B
+Streptococcus agalactiae GB00020
+Streptococcus agalactiae CJB111
+Pseudomonas sp. CBZ-4
+Pseudomonas parafulva NBRC 16636 = DSM 17004
+Pseudomonas aeruginosa DSM 50071
+Escherichia coli DEC11A
+Escherichia coli PCN033
+Staphylococcus aureus subsp. aureus 21333
+Escherichia coli KTE233
+Klebsiella pneumoniae MGH 21
+Escherichia coli O08
+Streptococcus pneumoniae ATCC 700669
+Shigella flexneri 5 str. 8401
+Serratia marcescens WW4
+Clostridium botulinum F str. Langeland
+Clostridium botulinum F str. 230613
+Escherichia coli chi7122
+Escherichia coli APEC O78
+Streptococcus pyogenes STAB901
+Klebsiella pneumoniae DMC1097
+Fusobacterium ulcerans ATCC 49185
+Escherichia coli ACN001
+Leuconostoc fallax KCTC 3537
+Escherichia coli 536
+Lactococcus lactis subsp. lactis CV56
+Escherichia coli HVH 184 (4-3343286)
+Clostridium sp. KNHs209
+Escherichia coli O111:H11 str. CVM9534
+Escherichia coli 3.4880
+Escherichia coli DEC1B
+Staphylococcus aureus VH221
+Staphylococcus equorum
+Shigella sonnei Ss046
+Enterococcus pallens ATCC BAA-351
+Pseudomonas nitroreducens HBP1
+Escherichia coli HVH 142 (4-5627451)
+Escherichia coli KTE34
+Escherichia coli HVH 228 (4-7787030)
+Staphylococcus aureus M0350
+Staphylococcus argenteus
+Lactobacillus plantarum subsp. plantarum ST-III
+Escherichia coli UMEA 3162-1
+Escherichia coli UMEA 3707-1
+Escherichia coli UMEA 3893-1
+Escherichia coli KOEGE 32 (66a)
+Enterococcus faecium DO
+Escherichia coli B799
+Hydrogenophaga intermedia
+Geobacillus sp. JS12
+Salmonella enterica subsp. enterica serovar Bredeney str. CFSAN001080
+Peptoniphilus duerdenii ATCC BAA-1640
+Escherichia coli KTE173
+Staphylococcus aureus M1092
+Staphylococcus aureus subsp. aureus VRS4
+Staphylococcus aureus M0780
+Staphylococcus aureus M0565
+Staphylococcus aureus M0927
+Staphylococcus aureus M0822
+Staphylococcus aureus M1556
+Staphylococcus aureus M1167
+Staphylococcus aureus A9781
+Staphylococcus aureus M1450
+Staphylococcus aureus M1037
+Staphylococcus aureus M1224
+Listeria monocytogenes HCC23
+Listeria monocytogenes L99
+Listeria monocytogenes M7
+Staphylococcus aureus M1277
+Haemophilus influenzae R2846
+Escherichia coli MP020940.1
+Listeria monocytogenes EGD-e
+Escherichia coli DEC2E
+Escherichia coli DEC2D
+Staphylococcus aureus M1286
+Staphylococcus aureus subsp. aureus JH9
+Staphylococcus aureus subsp. aureus JH1
+Corynebacterium diphtheriae C7 (beta)
+Corynebacterium diphtheriae
+Escherichia coli HVH 185 (4-2876639)
+Escherichia coli UMEA 3108-1
+Bacillus sp. LM 4-2
+Escherichia coli LY180
+Pseudomonas aeruginosa BL12
+Escherichia coli DEC15E
+Staphylococcus aureus M1199
+Bacillus subtilis subsp. spizizenii str. W23
+Bacillus subtilis subsp. spizizenii
+Enterococcus villorum ATCC 700913
+Corynebacterium ulcerans
+Escherichia coli M919
+Escherichia coli UMEA 3656-1
+Corynebacterium variabile DSM 44702
+Escherichia coli KTE107
+Escherichia coli KTE100
+Enhydrobacter aerosaccus SK60
+Streptococcus agalactiae MRI Z1-216
+Streptococcus agalactiae MRI Z1-213
+Fusobacterium varium ATCC 27725
+Staphylococcus intermedius NCTC 11048
+Enterococcus faecium ATCC 8459
+Enterococcus faecium NRRL B-2354
+Pseudomonas veronii 1YdBTEX2
+Granulicatella adiacens ATCC 49175
+Streptococcus agalactiae 2603V/R
+Citrobacter sp. S-77
+Paraclostridium bifermentans ATCC 638
+Klebsiella pneumoniae UHKPC22
+Klebsiella pneumoniae UHKPC17
+Klebsiella pneumoniae 540_1460
+Klebsiella pneumoniae 30684/NJST258_2
+Pseudomonas aeruginosa S35004
+Pseudomonas aeruginosa LESB58
+Pseudomonas aeruginosa LES431
+Streptococcus lutetiensis 033
+Streptococcus pyogenes GA03747
+Desulfovibrio fairfieldensis
+Kosakonia radicincitans DSM 16656
+Staphylococcus aureus subsp. aureus VRS9
+Staphylococcus aureus M1309
+Staphylococcus aureus M0404
+Staphylococcus aureus subsp. aureus CGS03
+Staphylococcus aureus subsp. aureus ST228
+Enterobacter kobei
+Escherichia coli KTE41
+Salinicoccus halodurans
+Campylobacter coli LMG 23344
+Lactobacillus salivarius CECT 5713
+Pseudomonas sp. 2_1_26
+Lactococcus lactis subsp. lactis
+Escherichia coli P0298942.1
+Staphylococcus aureus M1109
+Enterobacter cloacae subsp. cloacae ATCC 13047
+Escherichia coli KTE62
+Burkholderia stabilis
+Clostridium sp. M62/1
+Pseudomonas aeruginosa BL02
+Atopobium rimae ATCC 49626
+Escherichia coli KOEGE 131 (358a)
+Candidatus Stoquefichus massiliensis AP9
+Escherichia coli HVH 82 (4-2209276)
+Pseudomonas aeruginosa CF127
+Escherichia coli HVH 207 (4-3113221)
+Acinetobacter baumannii AB5711
+Streptococcus urinalis 2285-97
+Neisseria meningitidis 98080
+Neisseria meningitidis NM1482
+Neisseria meningitidis 98002
+Klebsiella pneumoniae subsp. pneumoniae WGLW5
+Enterococcus faecalis V583
+Enterobacter hormaechei ATCC 49162
+Desulfovibrio sp. 6_1_46AFAA
+Flavonifractor plautii
+Escherichia coli 55989
+Escherichia coli KTE77
+Streptococcus pyogenes HKU QMH11M0907901
+Streptococcus agalactiae FSL S3-170
+Cronobacter muytjensii ATCC 51329
+Staphylococcus epidermidis ATCC 12228
+Haemophilus influenzae 2019
+Streptococcus agalactiae FSL S3-603
+Streptococcus pneumoniae PCS81218
+Streptococcus pneumoniae PCS70012
+Streptococcus pneumoniae PNI0427
+Streptococcus pneumoniae PNI0010
+Streptococcus pneumoniae PNI0153
+Streptococcus pneumoniae P1031
+Streptococcus pneumoniae gamPNI0373
+Streptococcus pneumoniae PNI0006
+Streptococcus pneumoniae PNI0199
+Streptococcus pneumoniae PNI0076
+Streptococcus pneumoniae PNI0007
+Streptococcus pneumoniae PNI0446
+Streptococcus agalactiae FSL S3-654
+Streptococcus agalactiae FSL S3-034
+Dialister microaerophilus UPII 345-E
+Staphylococcus aureus M1063
+Escherichia coli KTE186
+Staphylococcus haemolyticus JCSC1435
+Sutterella wadsworthensis HGA0223
+Streptococcus gallolyticus
+[Bacteroides] pectinophilus ATCC 43243
+Enterococcus caccae ATCC BAA-1240
+Corynebacterium aurimucosum ATCC 700975
+Staphylococcus aureus A6224
+Enterobacteriaceae bacterium 9_2_54FAA
+Escherichia coli DEC14D
+Staphylococcus aureus A5937
+Escherichia coli J53
+Neisseria meningitidis WUE 2594
+Escherichia coli KTE198
+Enterococcus faecalis DENG1
+Oxalobacter formigenes OXCC13
+Escherichia coli 09BKT024447
+Escherichia coli HVH 50 (4-2593475)
+Salmonella enterica subsp. enterica serovar Infantis
+Lactococcus lactis subsp. lactis IO-1
+Lactobacillus paracasei ATCC 334
+Staphylococcus aureus M0799
+Escherichia coli HVH 59 (4-1119338)
+Lactobacillus reuteri lpuph
+Deinococcus proteolyticus MRP
+Staphylococcus aureus subsp. aureus TCH60
+Serratia liquefaciens
+Escherichia coli UMEA 3257-1
+Staphylococcus aureus subsp. aureus WBG10049
+Listeria monocytogenes FSL N1-017
+Escherichia coli UMEA 3199-1
+Citrobacter sp. L17
+Citrobacter sp. A1
+Escherichia coli KTE16
+Campylobacter rectus RM3267
+Enterobacter cloacae BWH 29
+Escherichia coli VR50
+Gemella sp. oral taxon 928
+Neisseria gonorrhoeae FA 1090
+Lactobacillus casei LOCK919
+Enterobacter sp. MGH 14
+Enterobacter cloacae UCICRE 5
+Bacillus velezensis CAU B946
+Klebsiella oxytoca MGH 42
+Escherichia sp. KTE159
+Enterobacter cloacae UCICRE 11
+Raoultella ornithinolytica B6
+Staphylococcus aureus subsp. aureus 112808A
+Clostridium sporogenes
+Escherichia coli H730
+Escherichia coli UMEA 3337-1
+Bacillus velezensis NJN-6
+Paraprevotella xylaniphila YIT 11841
+Pseudomonas aeruginosa C40
+Escherichia coli HVH 70 (4-2963531)
+Escherichia coli KTE69
+Escherichia coli UMEA 3592-1
+Staphylococcus aureus subsp. aureus CIG1605
+Salmonella enterica subsp. enterica serovar Heidelberg str. 41563
+Salmonella enterica subsp. enterica serovar Heidelberg str. SARA35
+Salmonella enterica subsp. enterica serovar Heidelberg str. B182
+Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069
+Salmonella enterica subsp. enterica serovar Heidelberg str. 41578
+Staphylococcus aureus M1
+Oribacterium sp. oral taxon 078 str. F0262
+Salmonella enterica subsp. enterica serovar Inverness str. ATCC 10720
+Enterobacter cloacae UCICRE 3
+Clostridium saccharobutylicum DSM 13864
+Escherichia coli KTE78
+Escherichia coli KTE79
+Campylobacter jejuni subsp. jejuni R14
+Escherichia coli UMEA 3355-1
+Staphylococcus aureus subsp. aureus DR10
+Lactobacillus brevis ATCC 367
+Escherichia coli MP021561.2
+Escherichia coli UMEA 3163-1
+Polymorphum gilvum SL003B-26A1
+Staphylococcus aureus M0171
+Escherichia coli HVH 121 (4-6877826)
+Staphylococcus aureus subsp. aureus 21262
+Staphylococcus aureus subsp. aureus Btn1260
+Clostridium colicanis 209318
+Salmonella enterica subsp. enterica serovar Newport str. CDC 2010K-2159
+Streptococcus agalactiae STIR-CD-01
+Streptococcus agalactiae BSU178
+Streptococcus agalactiae STIR-CD-21
+Streptococcus agalactiae CF01173
+Streptococcus agalactiae GD201008-001
+Escherichia coli KTE130
+Escherichia coli HVH 143 (4-5674999)
+Streptococcus pyogenes A20
+Streptococcus pyogenes M1 476
+Streptococcus pyogenes UTSW-2
+Streptococcus pyogenes UTMEM-1
+Streptococcus pyogenes GA41046
+Streptococcus pyogenes BJCYGAS15
+Actinobaculum massiliense ACS-171-V-Col2
+Staphylococcus aureus M1321
+Staphylococcus aureus HI111
+Escherichia coli KTE12
+Pseudomonas putida TRO1
+Staphylococcus aureus subsp. aureus CIG290
+Enterococcus hirae ATCC 9790
+Enterococcus faecalis EnGen0354
+Staphylococcus aureus subsp. aureus CIG1233
+Staphylococcus aureus subsp. aureus EMRSA16
+Staphylococcus aureus subsp. aureus CIG1242
+Staphylococcus aureus subsp. aureus CIGC341D
+Staphylococcus aureus M0946
+Staphylococcus aureus M0513
+Staphylococcus aureus subsp. aureus CIG1214
+Staphylococcus aureus subsp. aureus CIG1500
+Oribacterium sinus F0268
+Lactobacillus casei 12A
+Staphylococcus aureus M0586
+Campylobacter jejuni subsp. jejuni
+Klebsiella pneumoniae UCICRE 4
+Enterococcus faecalis str. Symbioflor 1
+Escherichia coli UMEA 3176-1
+Klebsiella pneumoniae ATCC BAA-1705
+Klebsiella pneumoniae subsp. pneumoniae MP14
+Klebsiella pneumoniae UHKPC06
+Klebsiella pneumoniae 140_1040
+Klebsiella pneumoniae UHKPC05
+Klebsiella pneumoniae UHKPC09
+Klebsiella pneumoniae UHKPC23
+Klebsiella pneumoniae VAKPC280
+Klebsiella pneumoniae 160_1080
+Klebsiella pneumoniae UHKPC28
+Klebsiella pneumoniae UHKPC24
+Klebsiella pneumoniae UHKPC31
+Klebsiella pneumoniae 361_1301
+Klebsiella pneumoniae UHKPC 52
+Klebsiella pneumoniae VAKPC278
+Klebsiella pneumoniae 500_1420
+Klebsiella pneumoniae UHKPC33
+Klebsiella pneumoniae UHKPC07
+Klebsiella pneumoniae subsp. pneumoniae KPR0928
+Pandoraea faecigallinarum
+Enterobacter asburiae LF7a
+Staphylococcus aureus subsp. aureus MRSA131
+Escherichia coli KTE53
+Staphylococcus aureus subsp. aureus 21305
+Escherichia coli KTE140
+Escherichia coli KTE95
+Staphylococcus aureus subsp. aureus MN8
+Ralstonia solanacearum
+Staphylococcus aureus subsp. aureus ED133
+Escherichia coli DEC2B
+Klebsiella michiganensis
+Escherichia coli UMEA 3609-1
+Klebsiella pneumoniae subsp. pneumoniae WGLW2
+Escherichia coli KTE51
+Desulfovibrio sp. 3_1_syn3
+Lactobacillus ruminis ATCC 27782
+Escherichia coli UMEA 3014-1
+Escherichia coli HVH 212 (3-9305343)
+Acinetobacter soli
+Serratia proteamaculans 568
+Escherichia coli 910096-2
+Escherichia coli O139:H28 str. E24377A
+Escherichia coli 3003
+Ruminococcaceae bacterium D16
+Streptococcus pyogenes GA40377
+Streptococcus pyogenes GA41394
+Escherichia coli KOEGE 70 (185a)
+Corynebacterium diphtheriae bv. mitis str. NC03529
+Actinomyces neuii subsp. neuii DSM 8576
+Neisseria bacilliformis ATCC BAA-1200
+Escherichia coli DEC6E
+Burkholderia thailandensis MSMB121
+Staphylococcus aureus M0367
+Klebsiella pneumoniae UHKPC45
+Klebsiella pneumoniae UHKPC32
+Klebsiella pneumoniae UHKPC67
+Klebsiella pneumoniae UHKPC77
+Escherichia coli HVH 147 (4-5893887)
+Escherichia coli KTE147
+Escherichia sp. KTE11
+Staphylococcus aureus M0528
+Fenollaria massiliensis
+Enterococcus faecalis EnGen0297
+Escherichia coli HVH 4 (4-7276109)
+Staphylococcus aureus M1510
+Pseudomonas knackmussii B13
+Escherichia coli KTE89
+Streptococcus mitis
+Escherichia coli SE15
+[Clostridium] saccharolyticum WM1
+Escherichia coli O26:H11 str. CVM10026
+Escherichia coli HVH 191 (3-9341900)
+Escherichia coli O104:H4 str. ON2010
+Veillonella parvula ATCC 17745
+Enterobacter sp. FY-07
+Staphylococcus aureus subsp. aureus 21252
+Bacillus amyloliquefaciens KHG19
+Bifidobacterium adolescentis
+Staphylococcus aureus subsp. aureus CIGC128
+Corynebacterium imitans
+Staphylococcus capitis subsp. capitis
+Neisseria meningitidis 2000175
+Escherichia coli HVH 103 (4-5904188)
+Escherichia coli HVH 130 (4-7036876)
+Escherichia coli KTE182
+Weissella confusa LBAE C39-2
+Staphylococcus aureus M0547
+Escherichia coli HVH 214 (4-3062198)
+Escherichia coli UMEA 3391-1
+Staphylococcus aureus M0029
+Weissella hellenica
+Streptococcus pyogenes Alab49
+Staphylococcus aureus M0823
+Brachyspira murdochii DSM 12563
+Staphylococcus aureus subsp. aureus CIG1096
+Staphylococcus aureus M1531
+Staphylococcus aureus M0102
+Staphylococcus aureus M1563
+Staphylococcus aureus subsp. aureus 132
+Staphylococcus aureus M0510
+Pantoea ananatis PA13
+Escherichia coli HVH 58 (4-2839709)
+Serratia sp. Ag1
+Staphylococcus aureus subsp. aureus Tager 104
+Staphylococcus aureus M1407
+Streptococcus agalactiae BSU447
+Streptococcus agalactiae GB00923
+Streptococcus agalactiae GB00904
+Streptococcus agalactiae GB00929
+Thauera sp. 27
+Sphingobium sp. MI1205
+Escherichia coli UMEA 3632-1
+Staphylococcus aureus M0584
+Escherichia coli UMEA 3240-1
+Staphylococcus aureus subsp. aureus VRS10
+Staphylococcus aureus M0978
+Enterococcus faecalis EnGen0244
+Shewanella baltica OS117
+Staphylococcus aureus M0994
+Staphylococcus aureus M0687
+Lachnoanaerobaculum saburreum DSM 3986
+Burkholderiales bacterium 1_1_47
+Escherichia coli HVH 152 (4-3447545)
+Klebsiella pneumoniae subsp. pneumoniae KPNIH24
+Staphylococcus aureus M1036
+Escherichia coli HVH 188 (4-2356988)
+Staphylococcus aureus M1367
+Enterococcus faecalis EnGen0294
+Enterococcus faecalis EnGen0248
+Streptococcus pyogenes SSI-1
+Streptococcus pyogenes STAB902
+Staphylococcus aureus M1093
+Staphylococcus aureus subsp. aureus KPL1845
+Staphylococcus aureus M0494
+Staphylococcus aureus M1095
+Selenomonas sp. FOBRC9
+Streptococcus agalactiae LDS 628
+Escherichia coli 2.3916
+Streptococcus parauberis NCFD 2020
+Escherichia coli 96.0497
+Morganella morganii SC01
+Trueperella pyogenes
+Escherichia coli HVH 32 (4-3773988)
+Staphylococcus aureus M0144
+Escherichia coli UMEA 3703-1
+Escherichia coli P0305260.1
+Staphylococcus condimenti
+Streptococcus pneumoniae SPN021198
+Streptococcus pneumoniae SPN034183
+Streptococcus pneumoniae SPN994038
+Streptococcus pneumoniae OXC141
+Streptococcus pneumoniae SPN994039
+Streptococcus pneumoniae SP3-BS71
+Staphylococcus aureus M1544
+Olsenella sp. oral taxon 807
+Escherichia coli KTE136
+Synergistes sp. 3_1_syn1
+Staphylococcus aureus M0329
+Staphylococcus aureus M0719
+Staphylococcus aureus M1034
+Sutterella wadsworthensis 3_1_45B
+Staphylococcus aureus M0294
+Pectobacterium carotovorum subsp. carotovorum PCC21
+Staphylococcus aureus M0279
+Clostridium sporogenes PA 3679
+Staphylococcus aureus M0237
+Staphylococcus aureus D30
+Staphylococcus aureus M0450
+Burkholderia ubonensis MSMB22
+Staphylococcus aureus M0646
+Staphylococcus aureus M0571
+Escherichia coli UMEA 3292-1
+Staphylococcus aureus M0396
+Staphylococcus aureus subsp. aureus 21193
+Escherichia coli HVH 23 (4-6066488)
+Yersinia massiliensis CCUG 53443
+Escherichia coli P0302308.1
+Cryptobacterium curtum DSM 15641
+Varibaculum cambriense DSM 15806
+Escherichia coli HVH 3 (4-7276001)
+Streptococcus sp. GMD6S
+Streptococcus sanguinis SK1057
+Escherichia coli MS 145-7
+Listeria monocytogenes R479a
+Selenomonas sp. oral taxon 136
+Serratia marcescens SM39
+Staphylococcus capitis SK14
+Citrobacter sp. 30_2
+Staphylococcus aureus M1275
+Staphylococcus aureus M0150
+Actinomyces urogenitalis DSM 15434
+Lactobacillus gastricus PS3
+Bifidobacterium kashiwanohense PV20-2
+Bifidobacterium bifidum PRL2010
+Escherichia coli HVH 115 (4-4465997)
+Staphylococcus aureus M0375
+Staphylococcus aureus M0334
+Staphylococcus aureus M1253
+Staphylococcus aureus M0306
+Staphylococcus aureus M0212
+Staphylococcus aureus M0892
+Staphylococcus aureus M0391
+Staphylococcus aureus M0363
+Staphylococcus aureus M0288
+Escherichia coli HVH 33 (4-2174936)
+Staphylococcus aureus M1223
+Escherichia coli P0304816.1
+Streptococcus mitis 27/7
+Staphylococcus aureus M0536
+Enterococcus faecalis EnGen0070
+Enterococcus faecalis EnGen0310 = MMH594
+Enterococcus faecalis EnGen0089
+Enterococcus faecalis EnGen0120
+Enterococcus faecalis EnGen0068
+Enterococcus faecalis EnGen0098
+Enterococcus faecalis EnGen0231
+Enterococcus faecalis EnGen0108
+Enterococcus faecalis EnGen0087
+Enterococcus faecalis EnGen0107
+Enterococcus faecalis EnGen0100
+Enterococcus faecalis EnGen0114
+Enterococcus faecalis EnGen0113
+Enterococcus faecalis EnGen0099
+Enterococcus faecalis EnGen0112
+Enterococcus faecalis EnGen0097
+Enterococcus faecalis EnGen0096
+Enterococcus faecalis EnGen0111
+Enterococcus faecalis EnGen0091
+Enterococcus faecalis EnGen0090
+Enterococcus faecalis EnGen0067
+Enterococcus faecalis EnGen0220
+Enterococcus faecalis EnGen0219
+Enterococcus faecalis EnGen0216
+Enterococcus faecalis EnGen0209
+Enterococcus faecalis EnGen0208
+Enterococcus faecalis EnGen0374
+Enterococcus faecalis EnGen0228
+Enterococcus faecalis EnGen0205
+Enterococcus faecalis EnGen0207
+Enterococcus faecalis EnGen0203
+Enterococcus faecalis EnGen0202
+Enterococcus faecalis EnGen0201
+Enterococcus faecalis EnGen0200
+Enterococcus faecalis EnGen0194
+Enterococcus faecalis EnGen0199
+Enterococcus faecalis EnGen0197
+Enterococcus faecalis EnGen0196
+Enterococcus faecalis EnGen0195
+Enterococcus faecalis EnGen0095
+Enterococcus faecalis EnGen0094
+Enterococcus faecalis EnGen0119
+Enterococcus faecalis EnGen0085
+Enterococcus faecalis EnGen0092
+Enterococcus faecalis EnGen0110
+Enterococcus faecalis EnGen0109
+Enterococcus faecalis EnGen0088
+Enterococcus faecalis EnGen0106
+Enterococcus faecalis EnGen0069
+Enterococcus faecalis EnGen0225
+Enterococcus faecalis EnGen0224
+Enterococcus faecalis EnGen0223
+Enterococcus faecalis EnGen0222
+Enterococcus faecalis EnGen0221
+Enterococcus faecalis EnGen0218
+Enterococcus faecalis EnGen0217
+Enterococcus faecalis EnGen0215
+Enterococcus faecalis EnGen0214
+Enterococcus faecalis EnGen0213
+Enterococcus faecalis EnGen0211
+Enterococcus faecalis EnGen0210
+Enterococcus faecalis EnGen0206
+Enterococcus faecalis EnGen0204
+Escherichia coli KTE57
+Staphylococcus aureus M0103
+Staphylococcus warneri SG1
+Corynebacterium ulcerans 0102
+Staphylococcus carnosus subsp. carnosus TM300
+Leclercia adecarboxylata
+Neisseria weaveri
+Staphylococcus aureus M1015
+Staphylococcus aureus M1044
+Staphylococcus aureus M0221
+Streptococcus agalactiae STIR-CD-22
+Streptococcus agalactiae A909
+Staphylococcus aureus M0197
+Staphylococcus aureus M0633
+Escherichia coli 908675
+Streptococcus agalactiae 09mas018883
+Staphylococcus aureus A8115
+Staphylococcus aureus subsp. aureus 21236
+Staphylococcus aureus M0663
+Bacillus amyloliquefaciens DSM 7
+Escherichia fergusonii B253
+Escherichia coli 576-1
+Novosphingobium aromaticivorans DSM 12444
+Gardnerella vaginalis 5-1
+Staphylococcus aureus NN54
+Staphylococcus pseudintermedius HKU10-03
+Staphylococcus aureus subsp. aureus CIG547
+Staphylococcus aureus 08BA02176
+Aggregatibacter actinomycetemcomitans DSM 8324
+Aggregatibacter actinomycetemcomitans
+Escherichia coli KTE222
+Enterobacter xiangfangensis
+Treponema socranskii subsp. socranskii VPI DR56BR1116 = ATCC 35536
+Lactobacillus brevis KB290
+Staphylococcus aureus M0250
+Staphylococcus aureus M0077
+Pseudomonas aeruginosa CIG1
+Staphylococcus aureus M0006
+Staphylococcus aureus M0770
+Escherichia coli UMEA 3834-1
+Staphylococcus aureus M1188
+Escherichia coli HVH 119 (4-6879578)
+Escherichia coli KTE26
+Escherichia coli HVH 133 (4-4466519)
+Escherichia coli KTE204
+Escherichia coli HVH 183 (4-3205932)
+Staphylococcus aureus M0312
+Staphylococcus aureus M0326
+Weissella paramesenteroides ATCC 33313
+Streptococcus pyogenes MGAS1882
+Staphylococcus aureus M0468
+Staphylococcus pseudintermedius
+Streptococcus agalactiae GB00911
+Escherichia coli HVH 198 (4-3206106)
+Staphylococcus aureus M0200
+Neisseria gonorrhoeae NCCP11945
+Staphylococcus aureus M2
+Streptococcus pneumoniae SP195
+Enterococcus faecalis EnGen0369
+Escherichia coli 2.4168
+Escherichia coli Jurua 18/11
+Haemophilus aegyptius ATCC 11116
+Escherichia coli KTE240
+Staphylococcus aureus subsp. aureus SA957
+Staphylococcus aureus subsp. aureus M013
+Lactobacillus helveticus CNRZ32
+Bacillus subtilis BSn5
+Escherichia coli HVH 26 (4-5703913)
+Staphylococcus aureus subsp. aureus 65-1322
+Escherichia coli HVH 68 (4-0888028)
+Escherichia albertii KF1
+Lactobacillus johnsonii
+Staphylococcus aureus subsp. aureus PSP1996
+Escherichia coli BWH 24
+Lactobacillus otakiensis DSM 19908 = JCM 15040
+Pantoea sp. A4
+Listeria monocytogenes FSL R2-561
+Listeria monocytogenes SLCC2372
+Listeria monocytogenes SLCC2479
+Streptococcus pneumoniae GA13494
+Streptococcus pneumoniae GA02254
+Staphylococcus aureus M1010
+Enterobacter cloacae subsp. dissolvens SDM
+Staphylococcus aureus M0478
+Escherichia fergusonii ATCC 35469
+Staphylococcus epidermidis NIHLM067
+Listeria monocytogenes SLCC5850
+Listeria monocytogenes WSLC1001
+Listeria monocytogenes EGD
+Burkholderia vietnamiensis
+Escherichia coli UMEA 3139-1
+Bacillus paralicheniformis ATCC 9945a
+Staphylococcus caprae M23864:W1
+Cronobacter turicensis z3032
+Lonsdalea quercina subsp. quercina
+Escherichia coli KTE235
+Fusobacterium mortiferum ATCC 9817
+Rhodobacter sphaeroides ATCC 17029
+Staphylococcus aureus M1228
+Xanthomonas citri subsp. citri Aw12879
+Xanthomonas citri subsp. citri
+Escherichia coli UMEA 3336-1
+Staphylococcus aureus M1565
+Selenomonas sputigena ATCC 35185
+Pseudomonas aeruginosa XMG
+Solobacterium moorei F0204
+Staphylococcus aureus subsp. aureus LGA251
+Escherichia coli KTE139
+Staphylococcus aureus M1520
+Staphylococcus aureus M1521
+Staphylococcus aureus subsp. aureus CIGC348
+Staphylococcus aureus subsp. aureus CM05
+Clostridium botulinum A str. ATCC 19397
+Staphylococcus aureus M0415
+Enterococcus faecium Aus0085
+Haemophilus influenzae Rd KW20
+Lactobacillus johnsonii DPC 6026
+Staphylococcus epidermidis VCU045
+Escherichia coli KOEGE 3 (4a)
+Xanthomonas oryzae pv. oryzae
+Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456
+Escherichia coli P0302293.2
+Proteus penneri ATCC 35198
+Staphylococcus aureus subsp. aureus DSM 20231
+Streptococcus oralis ATCC 49296
+Cronobacter condimenti 1330
+Staphylococcus chromogenes MU 970
+Staphylococcus aureus M0066
+Staphylococcus aureus subsp. aureus ATCC 51811
+Escherichia coli 96.154
+Escherichia coli KTE8
+Citrobacter sp. FDAARGOS_156
+Escherichia coli BIDMC 19C
+Pediococcus pentosaceus SL4
+Staphylococcus aureus B147830
+Staphylococcus aureus M0108
+Staphylococcus aureus M0648
+Staphylococcus aureus M0467
+Staphylococcus aureus M0173
+Staphylococcus aureus M0374
+Staphylococcus aureus M1405
+Staphylococcus aureus subsp. aureus CIG1750
+Staphylococcus aureus M1126
+Staphylococcus aureus M0769
+Staphylococcus aureus M1215
+Staphylococcus aureus M0580
+Staphylococcus aureus M0622
+Veillonella dispar ATCC 17748
+Haemophilus influenzae PittGG
+Listeria ivanovii subsp. londoniensis
+Geobacillus sp. 12AMOR1
+Aggregatibacter actinomycetemcomitans NUM4039
+Staphylococcus aureus M1255
+Aggregatibacter segnis ATCC 33393
+Aggregatibacter aphrophilus
+Pseudomonas sp. Lz4W
+Morganella morganii subsp. morganii KT
+Bifidobacterium moukalabense DSM 27321
+Leptotrichia sp. oral taxon 847
+Escherichia coli B41
+Parabacteroides sp. ASF519
+Campylobacter insulaenigrae NCTC 12927
+Paenibacillus polymyxa
+Escherichia coli E1167
+Staphylococcus aureus M0877
+Escherichia coli HVH 6 (3-8296502)
+Fusobacterium nucleatum subsp. animalis 7_1
+Klebsiella pneumoniae 342
+Escherichia coli BCE001_MS16
+Streptococcus infantarius subsp. infantarius CJ18
+Escherichia coli KOEGE 56 (169a)
+Pseudomonas aeruginosa BWHPSA018
+Dialister invisus DSM 15470
+Listeria monocytogenes 6179
+Shewanella baltica OS185
+Xanthomonas oryzae pv. oryzae KACC 10331
+Xanthomonas oryzae pv. oryzae MAFF 311018
+Escherichia coli KTE150
+Acinetobacter sp. RUH2624
+Streptococcus urinalis FB127-CNA-2
+Escherichia coli NCCP15657
+Escherichia coli SEPT362
+Escherichia coli HVH 172 (4-3248542)
+Escherichia coli HVH 74 (4-1034782)
+Escherichia coli HVH 37 (4-2773848)
+Escherichia coli HVH 114 (4-7037740)
+Escherichia coli HVH 40 (4-1219782)
+Escherichia coli KTE209
+Enterococcus faecalis ATCC 6055
+Clostridiales bacterium VE202-08
+Enterococcus faecalis EnGen0081
+Enterococcus faecalis EnGen0060
+Enterococcus faecalis EnGen0075
+Enterococcus faecalis EnGen0328
+Escherichia coli H591
+Clostridium perfringens CPE str. F4969
+Listeria monocytogenes SLCC2755
+Pseudomonas aeruginosa C41
+Staphylococcus aureus M0489
+Paracoccus versutus
+Salmonella enterica subsp. enterica serovar Tallahassee str. 0012
+Peptoniphilus grossensis ph5
+Escherichia coli KTE185
+[Clostridium] symbiosum WAL-14673
+Enterobacter lignolyticus SCF1
+Klebsiella oxytoca KONIH1
+Staphylococcus epidermidis IS-250
+Escherichia coli DEC12D
+Escherichia coli UMEA 3117-1
+Staphylococcus aureus M0347
+Streptococcus pyogenes GA19700
+Staphylococcus aureus subsp. aureus COL
+Serratia sp. AS12
+Serratia plymuthica AS9
+Leptotrichia hofstadii F0254
+Staphylococcus aureus subsp. aureus VRS11b
+Staphylococcus aureus subsp. aureus 21334
+Prevotella bergensis DSM 17361
+Escherichia coli KTE212
+Salmonella enterica subsp. enterica serovar Choleraesuis str. ATCC 10708
+Escherichia coli BW2952
+Burkholderia lata
+Staphylococcus epidermidis NIH04008
+Staphylococcus epidermidis
+Streptococcus pneumoniae BS457
+Streptococcus pneumoniae SP-BS293
+Streptococcus pneumoniae 70585
+Lactococcus garvieae ATCC 49156
+Lactococcus garvieae Lg2
+Citrobacter sp. KTE30
+Escherichia coli HVH 175 (4-3405184)
+Pseudomonas aeruginosa BL22
+Pseudomonas aeruginosa U2504
+Enterococcus faecalis EnGen0333
+Lactobacillus salivarius str. Ren
+Enterococcus faecalis ATCC 19433
+Enterococcus faecalis TUSoD Ef11
+Escherichia coli UMEA 3160-1
+Campylobacter jejuni subsp. jejuni 87459
+Pseudomonas aeruginosa 6077
+Pseudomonas aeruginosa 39016
+Staphylococcus aureus M0455
+Lactobacillus paracasei subsp. paracasei Lpp43
+Lactobacillus paracasei subsp. paracasei Lpp219
+Capnocytophaga sp. oral taxon 338 str. F0234
+Enterococcus phoeniculicola ATCC BAA-412
+Staphylococcus aureus subsp. aureus USA300_TCH959
+Staphylococcus aureus LVP5
+Burkholderia thailandensis MSMB43
+Fusobacterium nucleatum subsp. vincentii ATCC 49256
+Haemophilus influenzae NT127
+Streptococcus pseudopneumoniae 5247
+Enterococcus faecalis ATCC 29212
+Brachybacterium paraconglomeratum LC44
+Pseudomonas aeruginosa SCV20265
+Escherichia coli KTE33
+Staphylococcus aureus M0934
+Staphylococcus epidermidis 12142587
+Salmonella enterica subsp. enterica serovar Enteritidis str. SARB17
+Staphylococcus epidermidis VCU118
+Salmonella enterica subsp. arizonae serovar 62:z36:- str. RKS2983
+Listeria monocytogenes FSL J1-194
+Escherichia coli KTE146
+Bifidobacterium stellenboschense
+Clostridium perfringens WAL-14572
+Escherichia coli DEC13D
+Staphylococcus epidermidis VCU123
+Staphylococcus aureus subsp. aureus 21340
+Bacillus amyloliquefaciens IT-45
+Bacillus amyloliquefaciens
+Staphylococcus epidermidis VCU065
+Streptococcus pneumoniae CDC1873-00
+Streptococcus pneumoniae GA47751
+Streptococcus pneumoniae GA11426
+Streptococcus pneumoniae NorthCarolina6A-23
+Streptococcus pneumoniae GA49447
+Streptococcus pneumoniae NP127
+Streptococcus pneumoniae GA14373
+Streptococcus pneumoniae GA47368
+Escherichia coli KTE46
+Escherichia coli HVH 30 (4-2661829)
+Staphylococcus lugdunensis N920143
+Shigella flexneri VA-6
+Escherichia coli UMEA 3489-1
+Escherichia coli SCD1
+Escherichia coli KTE25
+Escherichia coli UMEA 3271-1
+Escherichia coli KTE45
+Escherichia coli KTE227
+Cloacibacillus porcorum
+Campylobacter coli 1417
+Pseudomonas nitroreducens TX1
+Ralstonia solanacearum FJAT-1458
+Haemophilus paraphrohaemolyticus HK411
+Escherichia coli UMEA 3113-1
+Escherichia coli KOEGE 30 (63a)
+Escherichia coli HVH 56 (4-2153033)
+Escherichia coli HVH 28 (4-0907367)
+Escherichia coli KTE131
+Escherichia coli HVH 100 (4-2850729)
+Escherichia coli F11
+Escherichia coli HVH 65 (4-2262045)
+Escherichia coli KOEGE 77 (202a)
+Pseudomonas aeruginosa MH27
+Escherichia coli UMNF18
+Veillonella montpellierensis DNF00314
+Staphylococcus haemolyticus
+Campylobacter showae CSUNSWCD
+Listeria monocytogenes str. Scott A
+Simonsiella muelleri ATCC 29453
+Neisseria meningitidis NMB
+Neisseria meningitidis FAM18
+Fusobacterium periodonticum ATCC 33693
+Escherichia coli DEC5E
+Staphylococcus epidermidis NIH06004
+Leptotrichia wadei F0279
+Salmonella enterica subsp. enterica serovar Sloterdijk str. ATCC 15791
+Salmonella enterica subsp. enterica serovar Abaetetuba str. ATCC 35640
+Enterococcus faecalis EnGen0061
+Escherichia coli KTE206
+Escherichia coli UMEA 3150-1
+Escherichia coli UMEA 3065-1
+Neisseria subflava NJ9703
+Bacillus amyloliquefaciens UMAF6639
+Staphylococcus aureus M1142
+Shewanella baltica OS195
+Shewanella baltica OS678
+Lactobacillus rhamnosus LMS2-1
+Burkholderia seminalis
+Mycobacterium sp. KMS
+Staphylococcus epidermidis NIHLM049
+Neisseria meningitidis Z2491
+Corynebacterium lactis RW2-5
+Staphylococcus aureus subsp. aureus E1410
+Lactobacillus paracasei subsp. paracasei JCM 8130
+Ralstonia solanacearum GMI1000
+Streptococcus pyogenes GA41208
+Streptococcus pyogenes 06BA18369
+Escherichia coli HVH 19 (4-7154984)
+Streptococcus pneumoniae SPNA45
+Flavonifractor plautii ATCC 29863
+Escherichia coli KTE21
+Enterococcus dispar ATCC 51266
+Neisseria sicca 4320
+Staphylococcus warneri L37603
+Escherichia coli KTE55
+Lactobacillus mucosae
+Staphylococcus aureus M1462
+Escherichia coli HVH 126 (4-6034225)
+Escherichia coli KTE194
+Streptococcus infantis SK970
+Lactobacillus rhamnosus HN001
+Corynebacterium diphtheriae BH8
+Escherichia coli KOEGE 61 (174a)
+Escherichia coli HVH 83 (4-2051087)
+Lactobacillus helveticus CIRM-BIA 951
+Streptococcus pyogenes GA03799
+Enterobacter lignolyticus
+Lactobacillus pentosus KCA1
+Acinetobacter sp. NBRC 100985
+Escherichia coli KTE73
+Campylobacter jejuni RM1221
+Escherichia coli HVH 113 (4-7535473)
+Staphylococcus warneri A487
+Enterococcus faecalis EnGen0360
+Streptococcus sp. oral taxon 431
+Escherichia coli UMEA 3705-1
+Facklamia hominis ACS-120-V-Sch10
+Propionimicrobium sp. BV2F7
+Enterococcus faecalis Merz96
+Staphylococcus epidermidis VCU071
+Lactobacillus vaginalis DSM 5837 = ATCC 49540
+Fusobacterium nucleatum subsp. nucleatum ChDC F316
+Pseudomonas aeruginosa BWHPSA010
+Pseudomonas aeruginosa BWHPSA008
+Enterococcus faecalis EnGen0086
+Salmonella enterica subsp. enterica serovar Muenster str. 0315
+Clostridium lentocellum DSM 5427
+Escherichia coli MS 57-2
+Escherichia coli KTE20
+Listeria monocytogenes J1-220
+Prevotella multiformis DSM 16608
+Bacteroides massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223
+Klebsiella pneumoniae CG43
+Streptococcus pneumoniae GA62331
+Listeria monocytogenes SLCC2540
+Escherichia coli UMEA 3222-1
+Escherichia coli UMEA 3121-1
+Staphylococcus epidermidis VCU041
+Clostridium sp. HGF2
+Escherichia coli HVH 73 (4-2393174)
+Escherichia coli HVH 180 (4-3051617)
+Streptococcus agalactiae CNCTC 10/84
+Streptococcus agalactiae FSL S3-026
+Streptococcus sp. GMD1S
+Streptococcus sp. GMD4S
+Streptococcus sp. GMD2S
+Streptococcus sp. GMD5S
+Neisseria gonorrhoeae MS11
+Ralstonia solanacearum OE1-1
+Dermabacter sp. HFH0086
+Enterococcus moraviensis ATCC BAA-383
+Veillonella parvula ACS-068-V-Sch12
+Corynebacterium ulceribovis DSM 45146
+Lactobacillus paracasei subsp. paracasei Lpp70
+Leuconostoc kimchii IMSNU 11154
+Escherichia coli UMEA 3290-1
+Bacillus sp. Pc3
+Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293
+Gemella haemolysans M341
+Enterobacter cloacae subsp. cloacae 08XA1
+Escherichia coli KTE213
+Escherichia coli KTE9
+[Clostridium] scindens ATCC 35704
+Serratia grimesii
+Streptococcus pneumoniae GA54354
+Salmonella enterica subsp. enterica serovar Abony str. 0014
+Escherichia coli SMS-3-5
+Escherichia coli HVH 222 (4-2977443)
+Enterococcus faecalis EnGen0341
+Enterococcus faecalis EnGen0366
+Enterococcus faecalis EnGen0332
+Enterococcus faecalis EnGen0335
+Listeria monocytogenes serotype 1/2a str. F6854
+Listeria monocytogenes F6900
+Erysipelotrichaceae bacterium 5_2_54FAA
+Escherichia coli KTE86
+Escherichia coli UMEA 3694-1
+Escherichia coli PMV-1
+Listeria monocytogenes serotype 4b str. H7858
+Selenomonas noxia F0398
+Salmonella enterica subsp. enterica serovar Hadar str. RI_05P066
+Bacillus amyloliquefaciens LFB112
+Streptococcus pneumoniae GA41437
+Klebsiella pneumoniae BWH 30
+Escherichia coli KTE175
+Streptococcus agalactiae GB00975
+Lactococcus garvieae UNIUD074
+Lactococcus garvieae LG9
+Pseudomonas aeruginosa YL84
+Neisseria flavescens NRL30031/H210
+Escherichia coli P4-96
+Streptococcus agalactiae BSU451
+Enterococcus faecalis T3
+Enterococcus faecalis EnGen0240
+Enterococcus faecalis T1
+Anaerococcus lactolyticus ATCC 51172
+Streptococcus agalactiae GB00264
+Methanobrevibacter smithii TS146E
+Methanobrevibacter smithii TS147A
+Methanobrevibacter smithii TS147B
+Streptococcus pneumoniae SPN072838
+Yersinia similis
+Dorea formicigenerans 4_6_53AFAA
+Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043
+Bacillus paralicheniformis
+Erysipelatoclostridium ramosum DSM 1402
+Streptococcus pyogenes ATCC 10782
+Enterococcus faecalis E1Sol
+Pseudomonas aeruginosa PA1
+Pseudomonas aeruginosa PA1R
+Arthrobacter sp. IHBB 11108
+Escherichia coli STEC_B2F1
+Capnocytophaga ochracea DSM 7271
+Lactobacillus helveticus CIRM-BIA 104
+Escherichia coli HVH 150 (4-3258106)
+Escherichia coli HVH 112 (4-5987253)
+Bifidobacterium bifidum NCIMB 41171
+Streptococcus agalactiae FSL F2-338
+Lactobacillus plantarum IPLA88
+Neisseria meningitidis 70012
+Neisseria meningitidis 70030
+Neisseria meningitidis 2004085
+Neisseria meningitidis 98005
+Neisseria meningitidis 97018
+Neisseria meningitidis 2000063
+Neisseria meningitidis 2002007
+Neisseria meningitidis 68094
+Neisseria meningitidis 69166
+Neisseria meningitidis 75689
+Escherichia coli KTE228
+Escherichia coli UMEA 3821-1
+Escherichia coli UMEA 3323-1
+Escherichia sp. KTE31
+Escherichia coli HVH 201 (4-4459431)
+Neisseria meningitidis NM165
+Neisseria meningitidis 2007461
+Neisseria meningitidis 2004032
+Neisseria meningitidis NM90
+Neisseria meningitidis N1568
+Neisseria meningitidis NM220
+Neisseria meningitidis NM233
+Neisseria meningitidis NS44
+Neisseria meningitidis 2008223
+Neisseria meningitidis 2005172
+Neisseria meningitidis 97014
+Cardiobacterium hominis ATCC 15826
+Campylobacter coli H8
+Listeria monocytogenes 10403S
+Escherichia coli KTE103
+Kingella kingae ATCC 23330
+Coprococcus comes ATCC 27758
+Escherichia coli KTE23
+Thermus brockianus
+Lactobacillus plantarum JDM1
+Lactobacillus plantarum DOMLa
+Escherichia coli KTE156
+Escherichia coli KTE93
+Streptococcus sp. F0441
+Streptococcus pneumoniae 2061617
+Streptococcus pneumoniae CDC3059-06
+Streptococcus pneumoniae GA41277
+Streptococcus pneumoniae GA62681
+Enterococcus faecalis EnGen0291
+Pseudomonas aeruginosa ATCC 700888
+Staphylococcus lugdunensis
+Streptococcus mutans NLML9
+Lactobacillus paracasei subsp. paracasei Lpp17
+Escherichia coli UMEA 3341-1
+Casaltella massiliensis
+Escherichia coli KTE234
+Serratia marcescens subsp. marcescens Db11
+Salmonella enterica subsp. enterica serovar Newport str. CVM 19449
+Megasphaera sp. UPII 135-E
+Pseudomonas aeruginosa BL11
+Pseudomonas aeruginosa BL06
+Streptococcus pneumoniae GA47502
+Streptococcus parasanguinis F0449
+Bifidobacterium longum subsp. longum 2-2B
+Lactobacillus casei LC2W
+Staphylococcus epidermidis NIH05001
+Escherichia coli KTE115
+Staphylococcus aureus subsp. aureus 21201
+Escherichia coli UMEA 3687-1
+Leptotrichia sp. oral taxon 215 str. W9775
+Escherichia coli UMEA 3298-1
+Veillonella atypica ACS-134-V-Col7a
+Selenomonas infelix ATCC 43532
+Alishewanella jeotgali KCTC 22429
+Lactobacillus oris
+Klebsiella pneumoniae MGH 30
+Veillonella sp. 6_1_27
+Catenibacterium mitsuokai DSM 15897
+Mitsuokella multacida DSM 20544
+Lactobacillus rhamnosus LOCK908
+Streptococcus agalactiae GB00654
+Streptococcus agalactiae GB00112
+Streptococcus agalactiae CCUG 17336
+Streptococcus agalactiae CCUG 44186
+Escherichia coli KTE217
+Klebsiella pneumoniae KP-1
+Lactobacillus rhamnosus R0011
+Anaerococcus prevotii DSM 20548
+Escherichia coli TW14425
+Facklamia ignava CCUG 37419
+Leuconostoc pseudomesenteroides KCTC 3652
+Escherichia coli KTE169
+Escherichia coli KTE224
+Escherichia coli KTE168
+Fusobacterium nucleatum subsp. animalis
+Lactobacillus reuteri CF48-3A
+Clostridium perfringens ATCC 13124
+Nocardiopsis salina YIM 90010
+Pediococcus acidilactici MA18/5M
+Paracoccus aminophilus JCM 7686
+Listeria welshimeri serovar 6b str. SLCC5334
+Enterococcus faecalis EnGen0245
+Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377
+Escherichia coli KTE66
+Fusobacterium necrophorum subsp. funduliforme ATCC 51357
+Bacillus tequilensis KCTC 13622
+Pseudomonas aeruginosa AES-1R
+Streptococcus agalactiae FSL S3-090
+Escherichia coli KOEGE 58 (171a)
+Enterococcus asini ATCC 700915
+Pseudomonas aeruginosa RP73
+Klebsiella pneumoniae KCTC 2242
+Escherichia coli 0.1288
+Neisseria meningitidis alpha704
+Escherichia coli KTE135
+Enterococcus faecalis BM4654
+Enterococcus faecium EnGen0267
+Escherichia coli HVH 115 (4-4465989)
+Streptococcus agalactiae FSL S3-608
+Escherichia coli HVH 227 (4-2277670)
+Clostridium perfringens
+Escherichia coli KOEGE 33 (68a)
+Kingella kingae
+Xanthomonas cassavae CFBP 4642
+Plautia stali symbiont
+Anaerofustis stercorihominis DSM 17244
+Enterococcus faecalis EnGen0300
+Bacteroides sp. 2_2_4
+Helcococcus sueciensis DSM 17243
+Clostridium sp. VE202-10
+Bacillus amyloliquefaciens UMAF6614
+Shewanella baltica OS155
+Pyramidobacter piscolens W5455
+Staphylococcus aureus A10102
+Staphylococcus aureus subsp. aureus IS-99
+Streptococcus agalactiae GB00206
+Escherichia coli BWH 32
+Staphylococcus capitis VCU116
+Pseudomonas aeruginosa S54485
+Lactobacillus fermentum NB-22
+Streptococcus pneumoniae GA17328
+Pediococcus pentosaceus ATCC 25745
+Streptococcus pneumoniae GA02270
+Neisseria meningitidis CU385
+Neisseria meningitidis NM3173
+Neisseria meningitidis H44/76
+Neisseria meningitidis 2002020
+Neisseria meningitidis M13265
+Neisseria meningitidis NM477
+Neisseria meningitidis NM1476
+Neisseria meningitidis NM3141
+Neisseria meningitidis 2002030
+Rhodococcus sp. p52
+Escherichia coli HVH 2 (4-6943160)
+Escherichia coli HVH 98 (4-5799287)
+Corynebacterium timonense 5401744
+Escherichia coli KTE208
+Lactobacillus shenzhenensis LY-73
+Escherichia coli B088
+Methylobacillus flagellatus KT
+Escherichia coli KTE18
+Escherichia coli LAU-EC10
+Oceanicaulis sp. HL-87
+Thermaerobacter marianensis DSM 12885
+Escherichia coli O157:H16
+Enterococcus faecalis 06-MB-S-10
+Escherichia coli T1282_01
+Bifidobacterium reuteri DSM 23975
+Escherichia coli KTE191
+Escherichia coli KTE106
+Campylobacter jejuni subsp. jejuni 2008-988
+Streptococcus pneumoniae GA40183
+Escherichia coli TA143
+Campylobacter coli Z156
+Pseudomonas aeruginosa VRFPA04
+Escherichia coli TOP550-2
+Pediococcus acidilactici
+Escherichia coli TOP382-3
+Escherichia coli TOP550-3
+Escherichia coli TOP382-2
+Escherichia coli TOP550-4
+Escherichia coli HM27
+Geobacillus kaustophilus GBlys
+Francisella tularensis subsp. novicida PA10-7858
+Enterococcus faecalis ATCC 35038
+Enterococcus faecalis EnGen0250
+Pseudomonas aeruginosa X13273
+Campylobacter jejuni subsp. jejuni LMG 9217
+Campylobacter jejuni subsp. jejuni 2008-979
+Staphylococcus epidermidis PM221
+Escherichia coli AA86
+Micrococcus luteus SK58
+Acinetobacter ursingii DSM 16037 = CIP 107286
+Lactobacillus rhamnosus LOCK900
+Enterococcus faecalis EnGen0359
+Listeria monocytogenes serotype 4b str. 81-0861
+Streptococcus pneumoniae GA04175
+Streptococcus pneumoniae GA44500
+Enterococcus faecium E4452
+Streptococcus pneumoniae 459-5
+Lactobacillus fermentum IFO 3956
+Lactobacillus fermentum CECT 5716
+Campylobacter concisus ATCC 51562
+Escherichia coli MS 115-1
+Neisseria weaveri LMG 5135
+Eggerthella lenta DSM 2243
+Moraxella ovis
+Escherichia coli TW07509
+Eubacterium saphenum ATCC 49989
+Escherichia coli UMEA 3097-1
+Escherichia coli UMEA 3022-1
+Burkholderia ubonensis Bu
+Lactobacillus rossiae DSM 15814
+Lactobacillus fermentum
+Pseudomonas aeruginosa PA21_ST175
+Staphylococcus aureus subsp. aureus M876
+Staphylococcus lugdunensis HKU09-01
+Xanthomonas campestris
+Bifidobacterium longum subsp. infantis 157F
+Staphylococcus epidermidis VCU144
+Fusobacterium necrophorum D12
+Erysipelotrichaceae bacterium I46
+Clostridiales bacterium 1_7_47FAA
+Bifidobacterium breve
+Lactobacillus iners LEAF 2052A-d
+Bifidobacterium longum subsp. longum
+Streptococcus pneumoniae GA04672
+Enterococcus faecalis 62
+Alistipes putredinis DSM 17216
+Escherichia coli KTE80
+Streptococcus infantarius subsp. infantarius ATCC BAA-102
+Escherichia coli UMEA 3662-1
+Escherichia coli KTE118
+Escherichia coli HVH 5 (4-7148410)
+Escherichia coli HVH 102 (4-6906788)
+Enterococcus faecalis EnGen0367
+Escherichia coli KTE155
+Escherichia coli KTE19
+Enterococcus faecalis EnGen0348
+Enterococcus faecalis EnGen0079
+Enterococcus faecalis EnGen0242
+Enterococcus faecalis EnGen0226
+Xanthomonas campestris pv. campestris str. ATCC 33913
+Streptococcus pneumoniae SP18-BS74
+Streptococcus pneumoniae BHN237
+Geobacillus vulcani PSS1
+Campylobacter sp. FOBRC14
+Enterococcus faecalis EnGen0339
+Neisseria wadsworthii 9715
+Pseudomonas aeruginosa BWHPSA022
+Escherichia coli DEC13E
+Ralstonia mannitolilytica
+Enterococcus faecalis EnGen0064
+Enterococcus faecalis EnGen0298
+Enterococcus faecalis EnGen0370
+Enterococcus faecalis EnGen0307
+Enterococcus faecalis EnGen0302
+Enterococcus faecalis EnGen0306
+Enterococcus faecalis EnGen0246
+Enterococcus faecalis EnGen0065
+Coprobacillus sp. 3_3_56FAA
+Actinomyces turicensis ACS-279-V-Col4
+Anaerococcus senegalensis JC48
+Pseudomonas aeruginosa BL04
+Burkholderia contaminans
+Microbacterium sp. UCD-TDU
+Enterococcus faecalis EnGen0062
+Plesiomonas shigelloides
+Oribacterium sp. oral taxon 078 str. F0263
+Neisseria meningitidis 88050
+Neisseria meningitidis 75643
+Neisseria meningitidis NM606
+Neisseria meningitidis 97008
+Neisseria meningitidis NM607
+Neisseria meningitidis 69155
+Neisseria meningitidis 69176
+Neisseria meningitidis 70082
+Neisseria meningitidis 97027
+Neisseria meningitidis 94018
+Neisseria meningitidis NM604
+Neisseria meningitidis 96024
+Neisseria meningitidis 64182
+Neisseria meningitidis 63023
+Neisseria meningitidis 96060
+Enterobacter cloacae complex 'Hoffmann cluster III'
+Enterococcus faecium EnGen0167
+Campylobacter jejuni subsp. jejuni S3
+Campylobacter concisus UNSWCS
+Lactobacillus crispatus 214-1
+Staphylococcus epidermidis NIHLM095
+Staphylococcus epidermidis NIHLM087
+Pseudomonas aeruginosa M8A.3
+Pseudomonas aeruginosa M8A.2
+Lactobacillus mucosae LM1
+Streptococcus agalactiae GB00111
+Neisseria meningitidis 61106
+[Clostridium] innocuum 2959
+Escherichia coli p0305293.1
+Pseudomonas aeruginosa BWHPSA007
+Lactobacillus iners LactinV 03V1-b
+Yersinia enterocolitica subsp. palearctica 105.5R(r)
+Listeria monocytogenes SLCC7179
+Ruminococcus bicirculans
+Klebsiella pneumoniae BIDMC 22
+Escherichia coli 201600.1
+Pseudomonas aeruginosa BL17
+Pseudomonas aeruginosa HB13
+Streptococcus pneumoniae GA02714
+Pectobacterium carotovorum subsp. carotovorum PC1
+Kingella kingae PYKK081
+Enterococcus faecium U0317
+Enterococcus faecalis EnGen0357
+Trueperella pyogenes TP8
+Peptoniphilus sp. BV3C26
+Streptococcus agalactiae 515
+Pseudomonas aeruginosa BL03
+Kocuria rhizophila P7-4
+Pseudomonas aeruginosa VRFPA07
+Staphylococcus aureus subsp. aureus CIG1213
+Lactobacillus paracasei subsp. paracasei Lpp229
+Clostridiales bacterium NK3B98
+Clostridium perfringens C str. JGS1495
+Pseudomonas aeruginosa ATCC 25324
+Pseudomonas aeruginosa UCBPP-PA14
+Fusobacterium nucleatum subsp. vincentii 4_1_13
+Escherichia coli BIDMC 39
+Corynebacterium diphtheriae bv. intermedius str. NCTC 5011
+Clostridium botulinum Af84
+Enterococcus faecalis ATCC 4200
+Bifidobacterium longum subsp. infantis CCUG 52486
+Pectobacterium sp. SCC3193
+Enterobacter sp. MGH 24
+Escherichia coli KTE119
+Moraxella catarrhalis 103P14B1
+Lactobacillus ruminis ATCC 25644
+Escherichia coli Jurua 20/10
+Escherichia coli TW10828
+Lactobacillus iners UPII 60-B
+Escherichia coli E101
+Escherichia coli UMEA 3193-1
+Enterococcus faecalis EnGen0115
+Escherichia coli HVH 38 (4-2774682)
+Escherichia sp. KTE96
+Lactobacillus rhamnosus Lc 705
+Stenotrophomonas maltophilia R551-3
+Campylobacter subantarcticus LMG 24374
+Bacillus subtilis subsp. subtilis str. BSP1
+Escherichia coli DEC7B
+Escherichia coli TA124
+Lactobacillus iners LactinV 09V1-c
+Corynebacterium diphtheriae CDCE 8392
+Escherichia coli DEC10E
+Escherichia coli HVH 109 (4-6977162)
+Alistipes obesi
+Labrenzia aggregata IAM 12614
+Exiguobacterium sp. AB2
+Streptococcus pyogenes GA40634
+Streptococcus pneumoniae 2080913
+Gardnerella vaginalis HMP9231
+Streptococcus infantis X
+Lactobacillus johnsonii FI9785
+Neisseria sp. oral taxon 014 str. F0314
+Faecalibacterium prausnitzii A2-165
+Paenibacillus macerans
+Sphingobium sp. C100
+Campylobacter jejuni subsp. jejuni F38011
+Neisseria gonorrhoeae F62
+Streptococcus pneumoniae BHN191
+Neisseria lactamica NS19
+Corynebacterium falsenii DSM 44353
+Ottowia sp. oral taxon 894
+Bifidobacterium longum DJO10A
+Enterococcus gallinarum EG2
+Clostridium sp. 7_2_43FAA
+Lactococcus lactis subsp. cremoris UC509.9
+Capnocytophaga sputigena ATCC 33612
+Dysgonomonas mossii DSM 22836
+Escherichia coli KOEGE 40 (102a)
+Escherichia coli KTE84
+Escherichia coli ECC-1470
+Streptococcus pneumoniae EU-NP03
+Stomatobaculum longum
+Corynebacterium ulcerans FRC58
+Fusobacterium nucleatum subsp. animalis 4_8
+Proteus mirabilis PR03
+Escherichia coli M863
+Sphingomonas sp. MM-1
+Ruminococcus lactaris ATCC 29176
+Neisseria meningitidis 2000080
+Neisseria meningitidis 2003022
+Pseudomonas aeruginosa PAO1
+Salmonella enterica subsp. enterica serovar Dublin str. SD3246
+Escherichia coli HVH 190 (4-3255514)
+Staphylococcus aureus M0529
+Clostridiales bacterium S5-A14a
+Enterococcus durans IPLA 655
+Bacillus velezensis TrigoCor1448
+Neisseria meningitidis NM3081
+Neisseria meningitidis MC58
+Neisseria meningitidis LNP21362
+Corynebacterium diphtheriae HC02
+Arcanobacterium haemolyticum DSM 20595
+Xanthomonas axonopodis pv. manihotis str. IBSBF 285
+Streptococcus pneumoniae SP6-BS73
+Planococcus rifietoensis
+Lactobacillus rhamnosus ATCC 21052
+Haemophilus sputorum CCUG 13788
+Neisseria meningitidis M04-240196
+Bacillus halodurans C-125
+Bulleidia extructa W1219
+Brachyspira pilosicoli P43/6/78
+Neisseria meningitidis 65014
+Paenibacillus graminis
+Photorhabdus luminescens
+Campylobacter hyointestinalis subsp. lawsonii
+Campylobacter ureolyticus RIGS 9880
+Francisella cf. tularensis subsp. novicida 3523
+Streptococcus pneumoniae BS458
+Streptococcus pneumoniae BS397
+Streptococcus pneumoniae SP14-BS292
+Escherichia coli ThroopD
+Neisseria mucosa ATCC 25996
+Staphylococcus aureus subsp. aureus 68-397
+Enterococcus faecalis LA3B-2
+Brachyspira intermedia PWS/A
+Campylobacter ureolyticus ACS-301-V-Sch3b
+Salmonella enterica subsp. enterica serovar Newport str. CVM 37978
+Salmonella enterica subsp. enterica serovar Nchanga str. CFSAN001092
+Streptococcus pneumoniae BHN427
+Escherichia coli HVH 189 (4-3220125)
+Salmonella enterica subsp. enterica serovar Chester str. ATCC 11997
+Enterococcus faecalis EnGen0281
+Haematobacter massiliensis
+Leuconostoc sp. C2
+Streptococcus pyogenes GA03805
+Bacillus mojavensis RO-H-1 = KCTC 3706
+Escherichia coli str. K-12 substr. DH10B
+Escherichia coli KTE47
+Escherichia coli SWW33
+Selenomonas sp. oral taxon 137 str. F0430
+Escherichia coli KTE154
+Arthrobacter sp. LS16
+Escherichia coli HVH 193 (4-3331423)
+Gordonia soli NBRC 108243
+Enterococcus faecium T110
+Selenomonas sp. FOBRC6
+Bacillus subtilis subsp. subtilis str. RO-NN-1
+Enterococcus faecalis EnGen0279
+Moraxella caprae DSM 19149
+Campylobacter jejuni 32488
+Haemophilus parainfluenzae T3T1
+Enterococcus faecium EnGen0177
+Pseudomonas psychrophila HA-4
+Staphylococcus aureus M0273
+Citrobacter sp. KTE151
+Bifidobacterium bifidum S17
+Pseudomonas aeruginosa DQ8
+Escherichia coli DEC12C
+Adlercreutzia equolifaciens DSM 19450
+Escherichia coli KTE219
+Campylobacter coli 1957
+Escherichia coli KTE165
+Enterococcus faecalis WKS-26-18-2
+Escherichia coli KTE29
+Proteus mirabilis C05028
+Saccharopolyspora spinosa NRRL 18395
+Acinetobacter nosocomialis Ab22222
+Escherichia coli H489
+Escherichia coli KTE102
+Escherichia coli UMEA 3122-1
+Escherichia coli KTE205
+Streptococcus pneumoniae SP19-BS75
+Jonquetella anthropi E3_33 E1
+Kosakonia sacchari
+Escherichia coli KTE28
+Corynebacterium argentoratense DSM 44202
+Escherichia coli H494
+Streptococcus pneumoniae BS455
+Enterococcus faecium EnGen0308
+Escherichia coli KTE210
+Bacteroides fragilis 3_1_12
+Streptococcus pneumoniae SPN034156
+Escherichia sp. 1_1_43
+Listeria seeligeri serovar 1/2b str. SLCC3954
+Escherichia coli DEC13B
+Escherichia coli HVH 203 (4-3126218)
+Escherichia coli KTE27
+Escherichia coli KTE229
+Escherichia coli HVH 135 (4-4449320)
+Escherichia coli O127:H27 str. C43/90
+Streptococcus pneumoniae 801
+Campylobacter gracilis RM3268
+Bacteroides fragilis
+Streptococcus pneumoniae 2080076
+Pandoraea sputorum
+Escherichia coli 97.0259
+Escherichia coli KTE190
+Escherichia coli str. K-12 substr. MG1655
+Escherichia coli str. K-12 substr. W3110
+Escherichia coli DH1
+synthetic Escherichia coli C321.deltaA
+Escherichia coli str. K-12 substr. MC4100
+Escherichia coli KLY
+Escherichia coli BW25113
+Neisseria gonorrhoeae FA6140
+Peptoniphilus senegalensis JC140
+Shimwellia blattae DSM 4481 = NBRC 105725
+Porphyromonas gingivalis W4087
+Escherichia coli KTE68
+Enterococcus faecalis PC1.1
+Streptococcus agalactiae BSU96
+Olsenella profusa F0195
+Stenotrophomonas maltophilia D457
+Xanthomonas oryzae pv. oryzae PXO99A
+Escherichia coli KOEGE 118 (317a)
+Lactobacillus paralimentarius DSM 13238 = JCM 10415
+Escherichia coli MS 16-3
+Alloscardovia omnicolens DSM 21503
+Bacillus velezensis UCMB5036
+Streptococcus agalactiae GB00919
+Porphyromonas gingivalis F0185
+Escherichia coli KTE141
+Escherichia coli KTE187
+Corynebacterium callunae DSM 20147
+Escherichia coli KTE170
+Escherichia sp. KTE172
+Escherichia coli KTE225
+Bacteroides fragilis 638R
+Actinomyces timonensis DSM 23838
+Bacteroides sp. D20
+Streptococcus pneumoniae 2071004
+Escherichia coli ECC-Z
+Lactococcus garvieae 8831
+Escherichia coli CUMT8
+Shigella boydii ATCC 9905
+Campylobacter coli 86119
+Pseudomonas aeruginosa BL23
+Alistipes indistinctus YIT 12060
+Escherichia coli KTE48
+Escherichia coli KTE158
+Lactobacillus plantarum WJL
+Campylobacter gracilis
+Peptoniphilus rhinitidis 1-13
+Bacillus sp. JS
+Escherichia coli KTE24
+Escherichia coli KOEGE 68 (182a)
+Escherichia coli KTE90
+Escherichia coli KTE184
+Escherichia coli KTE91
+Pantoea rwandensis
+Escherichia coli UMEA 3342-1
+Escherichia coli DEC15B
+Escherichia coli DEC15C
+Escherichia coli UMEA 3805-1
+Escherichia coli O32:H37 str. P4
+Streptococcus agalactiae BSU248
+Methylobacterium sp. 4-46
+Escherichia coli KTE181
+Staphylococcus hominis subsp. hominis C80
+Streptococcus pneumoniae 2070035
+Haemophilus influenzae PittII
+Escherichia coli KTE10
+Streptococcus pyogenes M49 591
+Escherichia coli KTE44
+Dorea formicigenerans ATCC 27755
+Bacillus velezensis UCMB5113
+Escherichia coli KOEGE 7 (16a)
+Lactobacillus casei 21/1
+Porphyromonas bennonis DSM 23058 = JCM 16335
+Haemophilus influenzae 3655
+Lactobacillus salivarius ACS-116-V-Col5a
+Escherichia coli UMEA 3268-1
+Escherichia coli UMEA 3264-1
+Xanthomonas fragariae
+Enterococcus hirae
+Neisseria meningitidis 65012
+Escherichia coli HVH 69 (4-2837072)
+Escherichia coli UMEA 3426-1
+Zimmermannella faecalis ATCC 13722
+Enterococcus faecium EnGen0134
+Corynebacterium diphtheriae 241
+Corynebacterium diphtheriae HC01
+Enterococcus faecium 1,231,502
+Leptotrichia sp. oral taxon 225 str. F0581
+Lactobacillus paracasei subsp. paracasei Lpp230
+Staphylococcus aureus subsp. aureus SA40
+Novosphingobium nitrogenifigens DSM 19370
+Streptococcus pseudopneumoniae 22725
+Enterococcus faecalis EnGen0345
+Enterococcus faecalis T2
+Enterococcus faecalis EnGen0287
+Escherichia coli UMEA 3152-1
+Escherichia coli LCT-EC106
+Escherichia coli LCT-EC59
+Dorea sp. 5-2
+Lactobacillus plantarum 2165
+Atopobium parvulum DSM 20469
+Escherichia coli 541-1
+Bacteroides cellulosilyticus
+Escherichia fergusonii ECD227
+Corynebacterium ulcerans BR-AD22
+Campylobacter hominis ATCC BAA-381
+Propionibacterium sp. 409-HC1
+Propionibacterium acnes KPA171202
+Propionibacterium acnes 6609
+Thermoanaerobacterium thermosaccharolyticum DSM 571
+Lactobacillus paracasei subsp. paracasei Lpp221
+Lactobacillus paracasei subsp. paracasei Lpp74
+Lactobacillus paracasei subsp. paracasei Lpp227
+Salmonella bongori NCTC 12419
+Haemophilus influenzae PittEE
+Enterococcus faecium EnGen0146
+Enterococcus faecium EnGen0138
+Staphylococcus aureus subsp. aureus C160
+Escherichia coli B185
+Lactococcus lactis subsp. lactis bv. diacetylactis str. TIFN2
+Leuconostoc citreum KM20
+Clostridium perfringens B str. ATCC 3626
+Enterococcus faecium Com12
+Rahnella aquatilis CIP 78.65 = ATCC 33071
+Haemophilus influenzae KR494
+Escherichia coli HVH 145 (4-5672112)
+Streptococcus gordonii
+Enterococcus faecium E980
+Pseudomonas aeruginosa BWHPSA004
+Staphylococcus simulans
+Peptostreptococcaceae bacterium VA2
+Fusobacterium nucleatum subsp. polymorphum ATCC 10953
+Fusobacterium nucleatum subsp. polymorphum
+Leuconostoc mesenteroides KFRI-MG
+Aggregatibacter actinomycetemcomitans D7S-1
+Neisseria gonorrhoeae DGI18
+Treponema sp. OMZ 838
+Salmonella enterica subsp. enterica serovar Thompson str. ATCC 8391
+Enterococcus faecalis EnGen0361
+Helicobacter felis ATCC 49179
+Lactobacillus fabifermentans T30PCM01
+Escherichia coli HVH 53 (4-0631051)
+Enterobacter sp. MGH 38
+Lactobacillus helveticus H10
+Bacteroides dorei CL03T12C01
+Pantoea sp. Sc1
+Listeria monocytogenes N53-1
+Pseudomonas sp. P179
+Aggregatibacter actinomycetemcomitans D11S-1
+Campylobacter jejuni subsp. jejuni 51037
+Enterococcus faecalis HIP11704
+Xanthomonas axonopodis pv. manihotis str. UA226
+Escherichia coli HM26
+Enterococcus faecium 10/96A
+Campylobacter jejuni subsp. doylei 269.97
+Neisseria meningitidis 70021
+Enterococcus faecalis UP2S-6
+Enterococcus faecalis 06-MB-S-04
+Corynebacterium ulcerans 809
+Streptococcus pneumoniae 2071247
+Lactobacillus paracasei subsp. paracasei Lpp225
+Enterococcus faecium EnGen0153
+Prevotella intermedia 17
+Prevotella intermedia
+Parvimonas micra ATCC 33270
+Alistipes finegoldii DSM 17242
+Thermoanaerobacterium thermosaccharolyticum M0795
+Neisseria meningitidis M01-240355
+Porphyromonas catoniae F0037
+Escherichia coli HVH 45 (4-3129918)
+Leptotrichia goodfellowii F0264
+Neisseria gonorrhoeae FA19
+Staphylococcus aureus subsp. aureus GR1
+Escherichia coli DEC13A
+Staphylococcus aureus subsp. aureus 21342
+Serratia marcescens EGD-HP20
+Escherichia coli ER2796
+Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930
+Selenomonas sp. oral taxon 149 str. 67H29BP
+Shigella flexneri 2930-71
+Lactobacillus casei str. Zhang
+Xanthomonas oryzae X8-1A
+Leuconostoc pseudomesenteroides 4882
+Helicobacter pylori India7
+Enterococcus faecalis EnGen0331
+Corynebacterium diphtheriae 31A
+Lactobacillus casei UCD174
+Lactobacillus paracasei subsp. paracasei CNCM I-2877
+Staphylococcus aureus subsp. aureus 21269
+Enterococcus faecalis F01966
+Campylobacter concisus
+Bacteroides oleiciplenus YIT 12058
+Sphingobium lactosutens DS20
+Parabacteroides distasonis ATCC 8503
+Neisseria meningitidis 8013
+Enterococcus faecium OC2A-1
+Fusobacterium necrophorum subsp. funduliforme Fnf 1007
+Serratia plymuthica S13
+Staphylococcus aureus M0900
+Corynebacterium ureicelerivorans
+Campylobacter coli 317/04
+Escherichia coli 101-1
+Enterobacter cloacae ECNIH3
+Enterobacter cloacae ECR091
+Lactobacillus fermentum F-6
+Escherichia coli KTE236
+Sneathia amnii
+Salmonella enterica subsp. enterica serovar Worthington str. ATCC 9607
+Acidocella facilis ATCC 35904
+Enterococcus faecium 13.SD.W.09
+Streptococcus pneumoniae 2070425
+Enterococcus faecium LA4B-2
+Eubacterium ramulus ATCC 29099
+Bifidobacterium longum subsp. longum 1-6B
+Enterococcus faecalis EnGen0285
+Staphylococcus hominis subsp. hominis ZBW5
+Clostridiales bacterium VE202-13
+Prevotella sp. oral taxon 472 str. F0295
+Actinomyces sp. oral taxon 877 str. F0543
+Lactobacillus paracasei subsp. tolerans Lpl7
+Lactobacillus paracasei subsp. tolerans Lpl14
+Neisseria meningitidis Nm8187
+Neisseria meningitidis 2003051
+Klebsiella pneumoniae MGH 40
+Streptococcus pneumoniae GA58981
+Streptococcus pneumoniae GA56348
+Streptococcus pneumoniae 2090008
+Streptococcus pneumoniae 2061376
+Luteipulveratus mongoliensis
+Moraxella osloensis
+Campylobacter jejuni subsp. jejuni LMG 23210
+Escherichia coli TW15901
+Streptococcus pneumoniae GA05248
+Campylobacter jejuni subsp. jejuni 1213
+Streptococcus infantis SK1076
+Staphylococcus aureus M0045
+Campylobacter coli 2685
+Neisseria meningitidis M13399
+Escherichia vulneris NBRC 102420
+Escherichia coli 3.2303
+Staphylococcus delphini 8086
+Escherichia coli KTE43
+Campylobacter showae CC57C
+Campylobacter upsaliensis RM3195
+Bacteroides finegoldii DSM 17565
+Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988
+Pseudomonas aeruginosa PACS2
+Escherichia coli 3.2608
+Escherichia coli HVH 91 (4-4638751)
+Escherichia coli UMEA 3124-1
+Corynebacterium doosanense CAU 212 = DSM 45436
+Xanthomonas hortorum pv. carotae str. M081
+Eubacterium sulci ATCC 35585
+Staphylococcus aureus subsp. aureus 6850
+Xanthomonas axonopodis pv. citri str. 306
+Xanthomonas citri subsp. citri A306
+Xanthomonas citri subsp. citri UI6
+Brachyspira hampsonii 30446
+Corynebacterium sp. KPL2004
+Escherichia coli KTE189
+Enterococcus faecium LCT-EF20
+Lactobacillus fermentum 28-3-CHN
+Staphylococcus aureus M1244
+Neisseria meningitidis NM518
+Neisseria meningitidis NM2866
+Neisseria meningitidis 96037
+Neisseria meningitidis M0579
+Listeria monocytogenes HPB2262
+Lachnospiraceae bacterium 3_1_57FAA_CT1
+Escherichia coli KTE162
+Meiothermus cerbereus DSM 11376
+Escherichia coli 99.0741
+Neisseria meningitidis NM3230
+Neisseria meningitidis NM151
+Neisseria meningitidis M01-240149
+Clostridium sartagoforme AAU1
+Peptostreptococcus stomatis DSM 17678
+Staphylococcus aureus M0692
+Olsenella sp. oral taxon 809 str. F0356
+Neisseria meningitidis 92045
+Actinomyces johnsonii F0510
+Escherichia coli NA114
+Lactobacillus paracasei subsp. paracasei Lpp22
+Corynebacterium kroppenstedtii DSM 44385
+Pseudomonas aeruginosa BWHPSA027
+Pseudomonas aeruginosa DK2
+Escherichia coli TOP2386
+Clostridium sp. ATCC 29733
+Yersinia kristensenii ATCC 33638
+Escherichia coli G58-1
+Deinococcus swuensis
+Prevotella disiens FB035-09AN
+Paracoccus sp. PAMC 22219
+Alistipes timonensis JC136
+Streptococcus pneumoniae GA47179
+Prevotella sp. S7-1-8
+Sphingomonas parapaucimobilis NBRC 15100
+Bifidobacterium breve DSM 20213 = JCM 1192
+Gordonia neofelifaecis NRRL B-59395
+Lactococcus lactis subsp. cremoris KW2
+Escherichia coli KTE74
+Streptococcus mutans N66
+Escherichia coli H120
+Escherichia coli TOP2396-1
+Escherichia coli UMEA 3490-1
+Scardovia inopinata F0304
+Scardovia inopinata JCM 12537
+Staphylococcus aureus M1322
+Fusobacterium nucleatum subsp. nucleatum
+Lactobacillus casei 32G
+Bifidobacterium dentium Bd1
+Bifidobacterium dentium JCM 1195 = DSM 20436
+Clostridiales bacterium VE202-18
+Ralstonia solanacearum K60-1
+Clostridium orbiscindens 1_3_50AFAA
+Lactococcus lactis subsp. cremoris TIFN1
+Hungatella hathewayi WAL-18680
+Clostridium sp. ATCC BAA-442
+Actinomyces neuii BVS029A5
+Xanthomonas oryzae pv. oryzicola BLS256
+Enterococcus faecium E1039
+Sphingomonas sp. S17
+Brevibacterium senegalense
+Aquamicrobium defluvii
+Xanthomonas axonopodis Xac29-1
+Campylobacter coli 59-2
+Shuttleworthia satelles DSM 14600
+Escherichia coli KTE143
+Streptococcus mitis SK579
+Escherichia coli UMEA 3159-1
+Escherichia coli TA271
+Streptococcus anginosus subsp. whileyi MAS624
+Enterococcus faecalis E12
+Caldicellulosiruptor kristjanssonii I77R1B
+Escherichia coli HVH 225 (4-1273116)
+Streptococcus pneumoniae EU-NP01
+Leuconostoc carnosum JB16
+Bacteroides clarus YIT 12056
+Brachyspira hyodysenteriae ATCC 27164
+Prevotella scopos JCM 17725
+Prevotella sp. oral taxon 299 str. F0039
+Clostridium butyricum 5521
+Arthrobacter sp. PAO19
+Enterococcus sp. GMD4E
+Enterococcus sp. GMD2E
+Enterococcus sp. GMD3E
+Massilia sp. NR 4-1
+Capnocytophaga sp. oral taxon 323
+Lactobacillus zeae DSM 20178 = KCTC 3804
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2539
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2538
+Xanthomonas axonopodis pv. manihotis str. IBSBF 280
+Lactobacillus casei A2-362
+Escherichia coli MS 79-10
+Escherichia coli MS 107-1
+Enterococcus faecium LCT-EF90
+Raoultella ornithinolytica 10-5246
+Stenotrophomonas maltophilia RA8
+Enterococcus faecalis EnGen0239
+Blautia producta
+Escherichia coli UMEA 3317-1
+Pseudoxanthomonas suwonensis 11-1
+Bifidobacterium merycicum
+Helicobacter pylori Hp P-4d
+Campylobacter jejuni subsp. jejuni 1997-14
+Selenomonas sp. CM52
+Bifidobacterium ruminantium
+Pantoea sp. AS-PWVM4
+Streptococcus pneumoniae GA17971
+Pseudomonas aeruginosa BL16
+Moraxella catarrhalis 46P47B1
+Enterococcus faecium EnGen0175
+Escherichia coli UMEA 3693-1
+Planococcus maritimus
+Staphylococcus aureus M0792
+Enterococcus faecium E1636
+Bacillus amyloliquefaciens EGD-AQ14
+Bacteroides stercorirosoris JCM 17103
+Lactobacillus paracasei subsp. paracasei Lpp14
+Achromobacter piechaudii HLE
+Pseudomonas aeruginosa 19660
+Anaerococcus vaginalis ATCC 51170
+Kluyvera ascorbata ATCC 33433
+Gardnerella vaginalis 409-05
+Methylobacterium sp. WSM2598
+Escherichia coli KTE70
+Serratia marcescens W2.3
+Odoribacter splanchnicus DSM 20712
+Staphylococcus epidermidis 14.1.R1.SE
+Helicobacter pylori PZ5080
+Eubacterium brachy ATCC 33089
+Nocardiopsis ganjiahuensis DSM 45031
+Burkholderia metallica
+Corynebacterium pseudotuberculosis 31
+Corynebacterium pseudotuberculosis
+Neisseria lactamica ATCC 23970
+Salmonella enterica subsp. enterica serovar Senftenberg str. 361154004
+Salmonella enterica subsp. enterica serovar Senftenberg
+[Clostridium] methylpentosum DSM 5476
+Treponema denticola ATCC 35405
+Gordonia sihwensis NBRC 108236
+Stenotrophomonas maltophilia Ab55555
+Escherichia coli KTE134
+Peptoniphilus lacrimalis 315-B
+Stenotrophomonas maltophilia EPM1
+Sphingobium baderi
+Prevotella maculosa DSM 19339 = JCM 15638
+Prevotella fusca JCM 17724
+Mycobacterium tuberculosis
+Pseudomonas aeruginosa BWHPSA009
+Shigella boydii 4444-74
+Prevotella dentalis DSM 3688
+Erysipelotrichaceae bacterium 6_1_45
+Lactobacillus plantarum UCMA 3037
+Lactococcus garvieae DCC43
+Serratia sp. S4
+Neisseria gonorrhoeae 1291
+Enterobacter massiliensis JC163
+Tannerella forsythia KS16
+Tannerella forsythia 3313
+Staphylococcus aureus M0177
+Succinatimonas hippei YIT 12066
+Corynebacterium diphtheriae HC03
+Corynebacterium diphtheriae HC04
+[Clostridium] cellulosi
+Gordonia sp. QH-11
+Kocuria palustris
+Lactococcus lactis subsp. lactis CNCM I-1631
+Staphylococcus aureus M1359
+Moraxella catarrhalis 7169
+Helicobacter pylori FD430
+Deinococcus radiodurans R1
+Staphylococcus aureus M0943
+Escherichia coli HVH 79 (4-2512823)
+Staphylococcus aureus M1193
+Erwinia typographi
+Moraxella catarrhalis BBH18
+Staphylococcus aureus M1578
+Staphylococcus aureus M0999
+Staphylococcus aureus M1229
+Bacteroides plebeius DSM 17135
+Lactobacillus paracasei subsp. paracasei Lpp125
+Streptococcus agalactiae CCUG 37737
+Prevotella sp. C561
+Neisseria meningitidis OX99.30304
+Lactobacillus casei M36
+Campylobacter coli 2553
+Campylobacter jejuni subsp. jejuni M129
+Enterococcus faecalis DS5
+Staphylococcus epidermidis VCU028
+Prevotella shahii DSM 15611 = JCM 12083
+Bifidobacterium sp. 12_1_47BFAA
+Staphylococcus aureus M1394
+Pseudomonas aeruginosa MRW44.1
+Akkermansia muciniphila
+Staphylococcus aureus M1291
+Methanobrevibacter smithii TS145A
+Methanobrevibacter smithii TS146D
+Methanobrevibacter smithii TS146B
+Methanobrevibacter smithii TS145B
+Methanobrevibacter smithii TS146A
+Methanobrevibacter smithii TS146C
+Acidaminococcus fermentans DSM 20731
+Helicobacter pylori GAM265BSii
+Bifidobacterium breve JCP7499
+Bifidobacterium longum subsp. longum CECT 7347
+Staphylococcus aureus M0562
+Escherichia coli 5.0588
+Staphylococcus aureus B40950
+Shigella flexneri 4343-70
+Neisseria polysaccharea ATCC 43768
+Helicobacter pylori UM037
+Lutibaculum baratangense AMV1
+Kingella sp. Sch538
+Meiothermus ruber DSM 1279
+Haemophilus influenzae CGSHiCZ412602
+Meiothermus chliarophilus DSM 9957
+Escherichia coli HVH 187 (4-4471660)
+Escherichia coli UMEA 3899-1
+Lactobacillus casei UW1
+Helicobacter pylori UM114
+Xanthomonas campestris pv. campestris str. 8004
+Enterococcus faecium EnGen0184
+Lachnospiraceae oral taxon 107 str. F0167
+Enterococcus faecalis 02-MB-BW-10
+Prevotella baroniae DSM 16972 = JCM 13447
+Escherichia coli KTE197
+Xanthomonas vasicola pv. vasculorum NCPPB 206
+Xanthomonas oryzae X11-5A
+Salmonella enterica subsp. enterica serovar Paratyphi B str. ATCC 10719
+Brachyspira pilosicoli B2904
+Serratia plymuthica PRI-2C
+Prevotella marshii DSM 16973 = JCM 13450
+Listeria monocytogenes FSL J1-175
+Corynebacterium urealyticum DSM 7109
+Gordonia aichiensis NBRC 108223
+Escherichia coli KTE101
+Deinococcus marmoris DSM 12784
+Caldicellulosiruptor lactoaceticus 6A
+Bacteroides thetaiotaomicron
+Prevotella histicola JCM 15637 = DNF00424
+Lactobacillus ruminis SPM0211
+Eikenella corrodens CC92I
+Pseudomonas aeruginosa SJTD-1
+Serratia marcescens FGI94
+Streptococcus pneumoniae GA16242
+Brachyspira innocens ATCC 29796
+Lactococcus garvieae 21881
+Campylobacter coli 2692
+Campylobacter coli 2698
+Prevotella sp. oral taxon 317 str. F0108
+Streptococcus intermedius JTH08
+Pseudomonas sp. HPB0071
+Pannonibacter phragmitetus DSM 14782
+Pseudomonas aeruginosa M8A.1
+Pannonibacter phragmitetus
+Pseudomonas aeruginosa BL21
+Lactobacillus paracasei subsp. paracasei CNCM I-4270
+Klebsiella sp. OBRC7
+Helicobacter pylori GAM105Ai
+Helicobacter pylori Gambia94/24
+Xanthomonas campestris pv. musacearum NCPPB 4380
+Xanthomonas campestris pv. musacearum NCPPB 4379
+Helicobacter pylori GAM120Ai
+Helicobacter pylori Hp P-25d
+Helicobacter pylori Hp P-25c
+Helicobacter pylori Hp P-25
+Helicobacter pylori HP260Bi
+Helicobacter pylori GAM260Bi
+Lactobacillus casei 5b
+Gordonia bronchialis DSM 43247
+Bacteroides fragilis YCH46
+Helicobacter pylori UM038
+Pseudomonas aeruginosa BWHPSA005
+Pseudomonas aeruginosa BWHPSA024
+Stenotrophomonas maltophilia JV3
+Stenotrophomonas maltophilia 5BA-I-2
+Staphylococcus pseudintermedius ED99
+Helicobacter pylori GAMchJs136i
+Streptococcus pneumoniae GA16531
+Escherichia coli HVH 209 (4-3062651)
+Serratia marcescens VGH107
+Saccharopolyspora erythraea D
+Prevotella oulorum JCM 14966
+Francisella tularensis subsp. novicida
+Lactobacillus kefiranofaciens ZW3
+Francisella tularensis subsp. novicida U112
+Prevotella bivia DNF00188
+Escherichia coli FVEC1412
+Staphylococcus capitis C87
+Lactobacillus casei UW4
+Campylobacter coli Z163
+[Eubacterium] siraeum DSM 15702
+Escherichia coli 908524
+Streptococcus pneumoniae GA05578
+Sphingomonas paucimobilis
+Porphyromonas endodontalis ATCC 35406
+Mycobacterium avium subsp. avium Env 77
+Mycobacterium sp. MCS
+Pseudomonas aeruginosa BWHPSA021
+Pseudomonas aeruginosa BWHPSA012
+Bifidobacterium longum NCC2705
+Enterococcus faecalis EnGen0251
+Actinomyces radicidentis
+Campylobacter concisus UNSWCD
+Pediococcus claussenii ATCC BAA-344
+Enterococcus faecium EnGen0136
+Ralstonia solanacearum SD54
+Capnocytophaga sp. oral taxon 326 str. F0382
+Bifidobacterium breve 689b
+Holdemania filiformis DSM 12042
+Xanthomonas perforans 91-118
+Prevotella oris C735
+Citrobacter farmeri GTC 1319
+Enterococcus faecalis EnGen0355
+Francisella tularensis subsp. novicida F6168
+Neisseria elongata subsp. glycolytica ATCC 29315
+Paracoccus sphaerophysae
+Escherichia coli KOEGE 71 (186a)
+Mobiluncus mulieris 28-1
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2820
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2666
+Xanthomonas axonopodis pv. manihotis str. IBSBF 1411
+Xanthomonas axonopodis pv. manihotis str. IBSBF 1994
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2816
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2819
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2670
+Xanthomonas axonopodis pv. manihotis str. IBSBF 1182
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2673
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2821
+Xanthomonas axonopodis pv. manihotis str. UA324
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2672
+Xanthomonas axonopodis pv. manihotis str. UG51
+Xanthomonas axonopodis pv. manihotis str. ORST X27
+Xanthomonas axonopodis pv. manihotis str. UA686
+Xanthomonas axonopodis pv. manihotis str. Xam1134
+Xanthomonas axonopodis pv. manihotis str. UA303
+Xanthomonas axonopodis pv. manihotis str. UG45
+Streptococcus pneumoniae 2070531
+Staphylococcus epidermidis MC28
+Staphylococcus epidermidis Scl22
+Brachyspira pilosicoli 95/1000
+Pseudomonas aeruginosa C48
+Helicobacter pylori Hp P-11b
+Escherichia coli HVH 41 (4-2677849)
+Corynebacterium sp. NML98-0116
+Bifidobacterium bifidum BGN4
+Helicobacter pylori GAM83Bi
+Pseudomonas aeruginosa BL09
+Oceanobacillus massiliensis str. N'diop
+Campylobacter coli 80352
+Bifidobacterium longum subsp. longum GT15
+Xanthomonas arboricola pv. celebensis
+Xanthomonas campestris pv. vesicatoria str. 85-10
+Escherichia coli KTE237
+Erysipelotrichaceae bacterium 3_1_53
+Neisseria flavescens SK114
+Staphylococcus hominis SK119
+Prevotella oris DSM 18711 = JCM 12252
+Xanthomonas arboricola pv. juglandis str. NCPPB 1447
+Streptococcus pneumoniae 2070768
+Streptococcus pneumoniae 2070005
+Escherichia coli HVH 211 (4-3041891)
+Campylobacter concisus UNSW3
+Pseudomonas aeruginosa BL05
+Parvimonas micra
+Corynebacterium terpenotabidum Y-11
+Campylobacter coli 2688
+Pseudomonas aeruginosa CF77
+Pseudomonas aeruginosa CF18
+Campylobacter coli H56
+Pseudomonas aeruginosa BL01
+Pseudomonas aeruginosa BWHPSA023
+Campylobacter coli 2680
+Pseudomonas aeruginosa BWHPSA016
+Pseudomonas aeruginosa BWHPSA014
+Butyrivibrio crossotus DSM 2876
+Pseudomonas aeruginosa BWHPSA025
+Shigella boydii 5216-82
+Pseudomonas aeruginosa B136-33
+Lactobacillus gasseri 2016
+Streptococcus pneumoniae GA52306
+Actinomyces georgiae F0490
+Neisseria meningitidis 93004
+Pseudomonas aeruginosa M9A.1
+Dyella ginsengisoli LA-4
+Pseudomonas aeruginosa BWHPSA019
+Campylobacter coli 111-3
+Escherichia coli TX1999
+Lactobacillus paracasei subsp. paracasei CNCM I-4649
+Lactococcus garvieae TB25
+Francisella tularensis subsp. novicida D9876
+Listeria monocytogenes FSL R2-503
+Pseudomonas aeruginosa UDL
+Alistipes senegalensis JC50
+Pseudomonas aeruginosa PA45
+Lactobacillus paracasei subsp. paracasei Lpp7
+Bifidobacterium breve JCM 7017
+Salmonella enterica subsp. enterica serovar Derby str. 626
+Pseudomonas aeruginosa X24509
+Pseudomonas aeruginosa CF27
+Campylobacter jejuni subsp. jejuni 1997-7
+Campylobacter jejuni subsp. jejuni 2008-872
+Dermacoccus nishinomiyaensis
+Pseudomonas aeruginosa BL20
+Pseudomonas aeruginosa BWHPSA015
+Bacteroides fragilis NCTC 9343
+Escherichia coli HVH 223 (4-2976528)
+Helicobacter pylori X47-2AL
+Actinomyces graevenitzii C83
+Actinobacillus ureae ATCC 25976
+Xanthomonas campestris pv. raphani 756C
+Finegoldia magna ATCC 29328
+Pseudomonas aeruginosa PA14
+Pseudomonas aeruginosa 62
+Escherichia coli H263
+Actinobacillus minor 202
+Helicobacter pylori NQ4200
+Xanthomonas fuscans subsp. fuscans
+Xanthomonas gardneri ATCC 19865
+Cupriavidus sp. HMR-1
+Escherichia coli KOEGE 44 (106a)
+Xanthomonas campestris pv. musacearum NCPPB 4394
+Escherichia coli KTE133
+Escherichia coli KTE192
+Pseudomonas aeruginosa PAO579
+Pseudomonas aeruginosa MSH-10
+Xanthomonas campestris pv. musacearum NCPPB 2005
+Pseudomonas aeruginosa BL18
+Pseudomonas aeruginosa CF5
+Escherichia coli KTE145
+Escherichia coli KTE215
+Pseudomonas aeruginosa PAK
+Pseudomonas aeruginosa C23
+Pseudomonas aeruginosa C20
+Pseudomonas aeruginosa BL10
+Pseudomonas aeruginosa NCMG1179
+Pseudomonas aeruginosa BL15
+Shewanella baltica OS625
+Haemophilus parainfluenzae HK262
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2818
+Xanthomonas axonopodis pv. manihotis str. UA556
+Xanthomonas axonopodis pv. manihotis str. UA536
+Xanthomonas axonopodis pv. manihotis str. ORST17
+Xanthomonas axonopodis pv. manihotis str. UG21
+Xanthomonas axonopodis pv. manihotis str. AFNC1360
+Xanthomonas axonopodis pv. manihotis str. UA306
+Xanthomonas axonopodis pv. manihotis str. Xam678
+Xanthomonas axonopodis pv. manihotis str. UA560
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2345
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2346
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2667
+Xanthomonas axonopodis pv. manihotis str. IBSBF 2665
+Vibrio cholerae HC-02A1
+Escherichia coli BCE008_MS-13
+Xanthomonas axonopodis pv. manihotis str. CIO1
+Xanthomonas citri pv. mangiferaeindicae LMG 941
+Pseudomonas aeruginosa BWHPSA028
+Moraxella catarrhalis BC8
+Prevotella salivae F0493
+Pseudomonas aeruginosa E2
+Vibrio cincinnatiensis
+Xanthomonas campestris JX
+Xanthomonas vesicatoria ATCC 35937
+Bacteroides eggerthii 1_2_48FAA
+Bacteroides caccae CL03T12C61
+Acinetobacter radioresistens TG02010
+Escherichia coli TOP293-1
+Escherichia coli DEC10C
+Escherichia coli DEC2A
+Shigella dysenteriae 155-74
+Escherichia coli 3030-1
+Escherichia coli O104:H4 str. H112180283
+Escherichia coli DEC10A
+Shigella flexneri 1485-80
+Escherichia coli TA007
+Escherichia coli O104:H4 str. 01-09591
+Staphylococcus aureus subsp. aureus IS-55
+Staphylococcus aureus subsp. aureus IS-125
+Staphylococcus aureus PPUKM-332-2009
+Staphylococcus aureus PPUKM-377-2009
+Staphylococcus aureus PPUKM-775-2009
+Streptococcus pneumoniae 1488
+Streptococcus pseudopneumoniae G42
+Escherichia coli DEC10B
+Shigella flexneri K-671
+Escherichia coli DEC10D
+Shigella boydii 965-58
+Shigella flexneri K-304
+Shigella flexneri 6603-63
+Escherichia coli STEC_DG131-3
+Staphylococcus epidermidis 528m
+Staphylococcus epidermidis 36-1
+Pseudomonas aeruginosa VRFPA03
+Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1
+Shigella flexneri K-404
+Staphylococcus aureus subsp. aureus IS-189
+Klebsiella pneumoniae subsp. pneumoniae KpMDU1
+Streptococcus pyogenes GA40468
+Escherichia coli O104:H21 str. CFSAN002236
+Lactobacillus crispatus 2029
+Streptococcus pyogenes GA06023
+Escherichia coli STEC_H.1.8
+Salmonella enterica subsp. enterica serovar Heidelberg str. SARA33
+Escherichia coli O104:H21 str. CFSAN002237
+Staphylococcus epidermidis 41tr
+Streptococcus pyogenes GA41345
+Lactobacillus gasseri K7
+Lactobacillus rhamnosus 2166
+Shigella flexneri SFJ17B
+Streptococcus pyogenes GA03455
+Escherichia sp. TW11588
+Clostridium botulinum A1 str. CFSAN002368
+Streptococcus pneumoniae 3051
+Clostridium botulinum CFSAN002367
+Haemophilus influenzae 22.1-21
+Aggregatibacter actinomycetemcomitans D17P-3
+Listeria monocytogenes FSL J2-064
+Fusobacterium nucleatum subsp. animalis D11
+Streptococcus pneumoniae GA41410
+Escherichia coli LT-68
+Shigella flexneri K-1770
+Streptococcus pneumoniae 2072047
+Streptococcus pyogenes GA41039
+Streptococcus pyogenes GA19681
+Escherichia coli O104:H4 str. LB226692
+Staphylococcus sp. MDS7B
+Streptococcus pneumoniae 2009
+Streptococcus pneumoniae 845
+Escherichia coli DEC6D
+Streptococcus agalactiae H36B
+Escherichia coli STEC_94C
+Escherichia coli TOP291
+Streptococcus mitis 29/42
+Aggregatibacter aphrophilus ATCC 33389
+Shigella flexneri 2850-71
+Escherichia coli TOP293-2
+Escherichia coli 4_1_47FAA
+Pseudomonas aeruginosa VRFPA05
+Escherichia coli TOP498
+Clostridium sp. CAG:306
+Aggregatibacter actinomycetemcomitans serotype c str. D17P-2
+Escherichia coli 1827-70
+Paeniclostridium sordellii ATCC 9714
+Enterococcus faecalis PF3
+Haemophilus influenzae R3021
+Streptococcus pneumoniae SP14-BS69
+Escherichia coli TOP293-3
+Escherichia coli TOP293-4
+Staphylococcus pseudintermedius K7
+Escherichia coli TW10598
+Shigella flexneri K-315
+Escherichia coli 97.0264
+Lactobacillus paracasei subsp. paracasei CNCM I-4648
+Enterococcus faecium CRL1879
+Desulfovibrio sp. Dsv1
+Escherichia coli TOP550-1
+Listeria monocytogenes FSL J2-003
+Staphylococcus sp. JGI 0001002-I23
+Shigella flexneri K-218
+Chloroflexi bacterium oral taxon 439 isolate Chl1
+Chloroflexi bacterium oral taxon 439 isolate Chl1-2
+Streptococcus agalactiae 18RS21
+Staphylococcus epidermidis CIM28
+Acinetobacter genomosp. 13TU str. NCTC 8102
+Kocuria atrinae C3-8
+Xanthomonas campestris pv. musacearum NCPPB 4381
+Azospirillum sp. CAG:260
+Escherichia coli ECA-0157
+Escherichia coli DEC6C
+Xanthomonas campestris pv. musacearum 'Kenyan'
+Pseudomonas aeruginosa VRFPA01
+Aggregatibacter actinomycetemcomitans serotype b str. I23C
+Aggregatibacter actinomycetemcomitans serotype b str. S23A
+Aggregatibacter actinomycetemcomitans serotype e str. SCC393
+[Eubacterium] rectale DSM 17629
+Alistipes shahii WAL 8301
+butyrate-producing bacterium SS3/4
+Bacteroides thetaiotaomicron VPI-5482
+Clostridium sp. L2-50
+Clostridium sp. KLE 1755
+Ruminococcus bromii L2-63
+Roseburia intestinalis XB6B4
+Bacteroides cellulosilyticus WH2
+Ruminococcus torques L2-14
+Barnesiella intestinihominis YIT 11860
+Bacteroides eggerthii DSM 20697
+Faecalibacterium prausnitzii
+Bacteroides nordii CL02T12C05
+Phascolarctobacterium succinatutens YIT 12067
+Akkermansia muciniphila ATCC BAA-835
+Prevotella copri DSM 18205
+Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505
+Holdemanella biformis DSM 3989
+[Clostridium] clostridioforme 2_1_49FAA
+[Eubacterium] hallii DSM 3353
+Bacteroides coprophilus DSM 18228 = JCM 13818
+Ruminococcus champanellensis 18P13 = JCM 17042
+Bacteroides intestinalis DSM 17393
+Lactobacillus
+Blautia hansenii
+Streptococcus vestibularis F0396
+Faecalitalea cylindroides T2-87
+[Ruminococcus] torques
+Bifidobacterium breve UCC2003
+[Clostridium] spiroforme DSM 1552
+Coprobacter fastidiosus NSB1
+Actinomyces naeslundii
+Burkholderia cenocepacia HI2424
+Chlamydia psittaci
+Geobacillus
+Lonicera japonica
+Acinetobacter johnsonii
+Actinidia chinensis
+Imperata cylindrica
+Kluyvera cryocrescens
+Lactobacillus casei
+Lactobacillus gasseri
+Lactobacillus jensenii
+Lactococcus lactis subsp. cremoris
+Propionibacterium freudenreichii
+Allium chinense
+Xanthomonas oryzae
+Xanthomonas campestris pv. campestris
+Andrographis paniculata
+Brochothrix thermosphacta
+Eclipta prostrata
+Enterococcus sp.
+Eragrostis minor
+Erwinia pyrifoliae
+Gordonia terrae
+Helicobacter pylori
+Lactobacillus delbrueckii subsp. lactis
+Lactobacillus delbrueckii subsp. bulgaricus
+Acanthamoeba polyphaga
+Paspalum dilatatum
+Piper nigrum
+Pseudomonas syringae pv. actinidiae
+Salmonella enterica subsp. enterica serovar Newport
+Serratia sp.
+Staphylococcus pasteuri
+Xanthomonas vesicatoria
+Lactobacillus delbrueckii
+Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365
+Clostridium perfringens SM101
+Listeria monocytogenes Finland 1998
+Streptococcus sp. oral taxon 058 str. F0407
+Xanthomonas bromi
+Lactobacillus casei Lpc-37
+Listeria innocua ATCC 33091
+Staphylococcus epidermidis VCU126
+Staphylococcus epidermidis VCU117
+Listeria monocytogenes FSL F2-515
+Escherichia
