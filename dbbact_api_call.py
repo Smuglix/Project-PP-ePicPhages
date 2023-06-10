@@ -20,7 +20,11 @@ def request_with_retry(url, json_data, timeout_duration, max_retries=3, retry_de
                 raise
 
 
-def genus_to_16s():
+def find_human_associated_bacteria():
+    human_associated_bacteria_file = 'human_associated_bacteria.txt'
+    if file_exists(human_associated_bacteria_file):
+        return
+
     dbbact_api = 'https://api.dbbact.org'
     timeout_duration = 10
 
@@ -61,4 +65,32 @@ def genus_to_16s():
                 filehandle.write('%s\n' % item)
 
 
-genus_to_16s()
+values = " ".join(str(value) for value in bacteria_phages_dict.values())
+print(values)
+print(values.count('nan'))
+
+"""
+def compare_phage():
+    pathogen_bac = input("What Bacteria Do You Want To Get Rid Of?(pls use a coma to separate between bacterias):\n")
+    pathogen_bac_list = pathogen_bac.split(',')
+    pathogen_phage_list = []
+    human_phage_list = []
+    # Read list from the file
+    with open('human_associated_bacteria.txt', 'r') as filehandle:
+        human_associated_bacteria = [line.rstrip() for line in filehandle]
+
+    for pathogen in pathogen_bac_list:
+        for bacteria in human_associated_bacteria:
+            if bacteria == pathogen:
+                human_associated_bacteria.remove(bacteria)
+        pathogen_phage_list.append(bacteria_phages_dict[pathogen])
+    for bacteria in human_associated_bacteria:
+        human_phage_list.append(bacteria_phages_dict[bacteria])
+    for phage in pathogen_phage_list:
+        if phage in human_phage_list:
+            pathogen_phage_list.remove(phage)
+    print(pathogen_phage_list)
+
+
+find_human_associated_bacteria()"""
+"""compare_phage()"""

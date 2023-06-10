@@ -144,13 +144,13 @@ def create_bacteria_phages_dict(interactions_file, clusters_file):
     unique_interactions_df = interactions_df.drop_duplicates(subset=['host_taxon_id'])
 
     # Group the representative sequences by bacteria NCBI ID and extract the phage sequence names
-    bacteria_phages = rep_sequences_df.groupby('host_taxon_id')['seq_name'].apply(list).to_dict()
+    bacteria_phages = rep_sequences_df.groupby('host_taxon_id')['seq_name'].apply(lambda x: ', '.join([str(i) for i in x])).to_dict()
 
     # Create a dictionary with bacteria scientific name and NCBI ID as the key (drop duplicates before setting the index)
     bacteria_info = unique_interactions_df.set_index('host_taxon_id')[['scientific_name', 'ncbi_taxon_id']].to_dict(
         'index')
-    bacteria_phages_names_and_ids = {f"{bacteria_info[k]['scientific_name']}:{bacteria_info[k]['ncbi_taxon_id']}": v for
-                                     k, v in bacteria_phages.items()}
+    # bacteria_phages_names_and_ids = {f"{bacteria_info[k]['scientific_name']}:{bacteria_info[k]['ncbi_taxon_id']}": v for k, v in bacteria_phages.items()}
+    bacteria_phages_names_and_ids = {f"{bacteria_info[k]['scientific_name']}": v for k, v in bacteria_phages.items()}
 
     return bacteria_phages_names_and_ids
 
