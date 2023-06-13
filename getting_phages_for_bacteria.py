@@ -131,20 +131,21 @@ def create_scientific_names_list(interactions_file):
 
 def create_bacteria_phages_dict(interactions_file, clusters_file):
     # Read CSV files into DataFrames
-    interactions_df = pd.read_csv(interactions_file)
-    clusters_df = pd.read_csv(clusters_file, sep='\t')
+    interactions_df = pd.read_csv(interactions_file).fillna('')  # Replace NaNs with an empty string
+    clusters_df = pd.read_csv(clusters_file, sep='\t').fillna('')  # Replace NaNs with an empty string
 
     # Merge DataFrames based on the viral cluster ID
     merged_df = interactions_df.merge(clusters_df, left_on='viral_cluster_id', right_on='cluster_id')
-
-    # Filter the merged DataFrame on the 'is_representative' column to only keep representative sequences
-    rep_sequences_df = merged_df[merged_df['is_representative'] == 1]
-
+    # Convert 'seq_name' column in 'merged_df' to string
+    merged_df['seq_name'] = merged_df['seq_name'].astype(str)
     # Drop duplicates by 'host_taxon_id'
     unique_interactions_df = interactions_df.drop_duplicates(subset=['host_taxon_id'])
 
     # Group the representative sequences by bacteria NCBI ID and extract the phage sequence names
-    bacteria_phages = rep_sequences_df.groupby('host_taxon_id')['seq_name'].apply(lambda x: ', '.join([str(i) for i in x])).to_dict()
+    bacteria_phages = merged_df.groupby('host_taxon_id')['seq_name'].apply(
+        lambda x: ', '.join([str(i) for i in x])).to_dict()
+    # Convert all values in 'bacteria_phages' to strings
+    bacteria_phages = {k: str(v) for k, v in bacteria_phages.items()}
 
     # Create a dictionary with bacteria scientific name and NCBI ID as the key (drop duplicates before setting the index)
     bacteria_info = unique_interactions_df.set_index('host_taxon_id')[['scientific_name', 'ncbi_taxon_id']].to_dict(
@@ -155,7 +156,6 @@ def create_bacteria_phages_dict(interactions_file, clusters_file):
     return bacteria_phages_names_and_ids
 
 
-# Usage example:
 interactions_file = 'merged_interactions_and_taxon_info.csv'
 clusters_file = 'mvp_viral_clusters.txt'
 bacteria_phages_dict = create_bacteria_phages_dict(interactions_file, clusters_file)

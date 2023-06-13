@@ -64,11 +64,6 @@ def find_human_associated_bacteria():
             for item in human_associated_bacteria:
                 filehandle.write('%s\n' % item)
 
-
-values = " ".join(str(value) for value in bacteria_phages_dict.values())
-print(values)
-print(values.count('nan'))
-
 """
 def compare_phage():
     pathogen_bac = input("What Bacteria Do You Want To Get Rid Of?(pls use a coma to separate between bacterias):\n")
