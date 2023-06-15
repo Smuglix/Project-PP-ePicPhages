@@ -1,0 +1,5 @@
+streamlit~=1.23.1
+requests~=2.31.0
+asyncio~=3.4.3
+pandas~=2.0.2
+python-dotenv~=1.0.0

@@ -84,8 +84,7 @@ def compare_phage():
     for phage in pathogen_phage_list:
         if phage in human_phage_list:
             pathogen_phage_list.remove(phage)
-    print(pathogen_phage_list)
-
+    return pathogen_phage_list
 
 find_human_associated_bacteria()"""
 """compare_phage()"""
