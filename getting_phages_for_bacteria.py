@@ -130,6 +130,7 @@ def create_scientific_names_list(interactions_file):
 
 
 def create_bacteria_phages_dict(interactions_file, clusters_file):
+    bac_names = []
     # Read CSV files into DataFrames
     interactions_df = pd.read_csv(interactions_file).fillna('')  # Replace NaNs with an empty string
     clusters_df = pd.read_csv(clusters_file, sep='\t').fillna('')  # Replace NaNs with an empty string
@@ -159,4 +160,5 @@ def create_bacteria_phages_dict(interactions_file, clusters_file):
 interactions_file = 'merged_interactions_and_taxon_info.csv'
 clusters_file = 'mvp_viral_clusters.txt'
 bacteria_phages_dict = create_bacteria_phages_dict(interactions_file, clusters_file)
+
 scientific_names_list = create_scientific_names_list(interactions_file)

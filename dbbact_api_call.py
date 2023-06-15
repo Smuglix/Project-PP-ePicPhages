@@ -64,10 +64,10 @@ def find_human_associated_bacteria():
             for item in human_associated_bacteria:
                 filehandle.write('%s\n' % item)
 
-"""
-def compare_phage():
-    pathogen_bac = input("What Bacteria Do You Want To Get Rid Of?(pls use a coma to separate between bacterias):\n")
-    pathogen_bac_list = pathogen_bac.split(',')
+
+def compare_phage(pathogen_bac_list):
+    """pathogen_bac = input("What Bacteria Do You Want To Get Rid Of?(pls use a coma to separate between bacterias):\n")
+    pathogen_bac_list = pathogen_bac.split(',')"""
     pathogen_phage_list = []
     human_phage_list = []
     # Read list from the file
@@ -86,5 +86,3 @@ def compare_phage():
             pathogen_phage_list.remove(phage)
     return pathogen_phage_list
 
-find_human_associated_bacteria()"""
-"""compare_phage()"""
