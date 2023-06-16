@@ -42,10 +42,8 @@ def find_human_associated_bacteria():
             url = dbbact_api + '/sequences/get_annotations'
             json_data = {'sequence': seqs["sequences"][0]["seq"]}
             fast = request_with_retry(url, json_data, timeout_duration).json()
-            #   print(len(fast["annotations"]))
 
             for annotation in fast["annotations"]:
-                #   print(annotation['details'])
                 found = False
                 for sublist in annotation['details']:
                     if 'homo sapiens' in sublist:
@@ -54,8 +52,6 @@ def find_human_associated_bacteria():
                 if found:
                     print("homo sapiens is in the list")
                     count += 1
-            # print(count / len(fast["annotations"]))
-            # print(count)
             if count / len(fast["annotations"]) >= 0.15:
                 print("********************im a piece of the human microbiome AKA: gay")
                 human_associated_bacteria.append(name)
@@ -66,11 +62,10 @@ def find_human_associated_bacteria():
 
 
 def compare_phage(pathogen_bac_list):
-    """pathogen_bac = input("What Bacteria Do You Want To Get Rid Of?(pls use a coma to separate between bacterias):\n")
-    pathogen_bac_list = pathogen_bac.split(',')"""
     pathogen_phage_list = []
     human_phage_list = []
-    # Read list from the file
+    phage_results = {}
+
     with open('human_associated_bacteria.txt', 'r') as filehandle:
         human_associated_bacteria = [line.rstrip() for line in filehandle]
 
@@ -78,11 +73,22 @@ def compare_phage(pathogen_bac_list):
         for bacteria in human_associated_bacteria:
             if bacteria == pathogen:
                 human_associated_bacteria.remove(bacteria)
-        pathogen_phage_list.append(bacteria_phages_dict[pathogen])
-    for bacteria in human_associated_bacteria:
-        human_phage_list.append(bacteria_phages_dict[bacteria])
-    for phage in pathogen_phage_list:
-        if phage in human_phage_list:
-            pathogen_phage_list.remove(phage)
-    return pathogen_phage_list
 
+    # Create human_phage_list outside the loop
+    for bacteria in human_associated_bacteria:
+        for phagic in bacteria_phages_dict[bacteria]:
+            human_phage_list.append(phagic)
+
+    for pathogen in pathogen_bac_list:
+        # Reset pathogen_phage_list for each pathogen
+        pathogen_phage_list = [phagic for phagic in bacteria_phages_dict[pathogen]]
+
+        filtered_phage_list = [phage for phage in pathogen_phage_list if phage not in human_phage_list]
+
+        if not filtered_phage_list:
+            less_filtered_phage_list = [phage for phage in pathogen_phage_list]
+            phage_results[pathogen] = {'filtered': None, 'less_filtered': less_filtered_phage_list}
+        else:
+            phage_results[pathogen] = {'filtered': filtered_phage_list, 'less_filtered': None}
+
+    return phage_results

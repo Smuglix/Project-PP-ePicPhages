@@ -106,7 +106,6 @@ taxon_df = pd.read_csv('superkingdom2descendents.txt', sep='\t')
 # Merge DataFrames based on host_taxon_id and ncbi_taxon_id
 merged_df = mvp_df.merge(taxon_df, left_on='host_taxon_id', right_on='ncbi_taxon_id')
 
-# Keep only the columns you need in the output
 output_df = merged_df[
     ['interaction_uid', 'host_taxon_id', 'host_rank', 'host_superkingdom', 'viral_cluster_id', 'scientific_name']]
 
@@ -132,8 +131,8 @@ def create_scientific_names_list(interactions_file):
 def create_bacteria_phages_dict(interactions_file, clusters_file):
     bac_names = []
     # Read CSV files into DataFrames
-    interactions_df = pd.read_csv(interactions_file).fillna('')  # Replace NaNs with an empty string
-    clusters_df = pd.read_csv(clusters_file, sep='\t').fillna('')  # Replace NaNs with an empty string
+    interactions_df = pd.read_csv(interactions_file).fillna('')
+    clusters_df = pd.read_csv(clusters_file, sep='\t').fillna('')
 
     # Merge DataFrames based on the viral cluster ID
     merged_df = interactions_df.merge(clusters_df, left_on='viral_cluster_id', right_on='cluster_id')
@@ -143,10 +142,9 @@ def create_bacteria_phages_dict(interactions_file, clusters_file):
     unique_interactions_df = interactions_df.drop_duplicates(subset=['host_taxon_id'])
 
     # Group the representative sequences by bacteria NCBI ID and extract the phage sequence names
-    bacteria_phages = merged_df.groupby('host_taxon_id')['seq_name'].apply(
-        lambda x: ', '.join([str(i) for i in x])).to_dict()
-    # Convert all values in 'bacteria_phages' to strings
-    bacteria_phages = {k: str(v) for k, v in bacteria_phages.items()}
+    bacteria_phages = merged_df.groupby('host_taxon_id')['seq_name'].apply(list).to_dict()
+    """# Convert all values in 'bacteria_phages' to strings
+    bacteria_phages = {k: str(v) for k, v in bacteria_phages.items()}"""
 
     # Create a dictionary with bacteria scientific name and NCBI ID as the key (drop duplicates before setting the index)
     bacteria_info = unique_interactions_df.set_index('host_taxon_id')[['scientific_name', 'ncbi_taxon_id']].to_dict(
