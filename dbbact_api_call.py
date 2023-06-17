@@ -53,7 +53,7 @@ def find_human_associated_bacteria():
                     print("homo sapiens is in the list")
                     count += 1
             if count / len(fast["annotations"]) >= 0.15:
-                print("********************im a piece of the human microbiome AKA: gay")
+                print("********************im a piece of the human microbiome")
                 human_associated_bacteria.append(name)
         # Save list to a file
         with open('human_associated_bacteria.txt', 'w') as filehandle:
