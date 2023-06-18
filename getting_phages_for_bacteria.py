@@ -33,7 +33,6 @@ def download_taxon_id_info():
     }
 
     response = requests.get(url, stream=True, headers=headers)
-
     # Save the gzipped file locally
     with open('superkingdom2descendents.txt.gz', 'wb') as f:
         for chunk in response.iter_content(chunk_size=8192):
@@ -93,18 +92,6 @@ if 'superkingdom_y' in merged_df.columns:
     columns_to_drop.append('superkingdom_y')
 merged_df = merged_df.drop(columns_to_drop, axis=1)
 merged_df = merged_df.rename(columns={'superkingdom_x': 'host_superkingdom'})
-
-patho_dict = {}
-patho_list = []
-
-# Read mvp_interactions.txt into a DataFrame
-mvp_df = pd.read_csv('mvp_interactions.txt', sep='\t')
-
-# Read superkingdom2descendents.txt into a DataFrame
-taxon_df = pd.read_csv('superkingdom2descendents.txt', sep='\t')
-
-# Merge DataFrames based on host_taxon_id and ncbi_taxon_id
-merged_df = mvp_df.merge(taxon_df, left_on='host_taxon_id', right_on='ncbi_taxon_id')
 
 output_df = merged_df[
     ['interaction_uid', 'host_taxon_id', 'host_rank', 'host_superkingdom', 'viral_cluster_id', 'scientific_name']]
