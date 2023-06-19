@@ -87,8 +87,8 @@ def compare_phage(pathogen_bac_list):
 
         if not filtered_phage_list:
             less_filtered_phage_list = [phage for phage in pathogen_phage_list]
-            phage_results[pathogen] = {'filtered': None, 'less_filtered': less_filtered_phage_list}
+            phage_results[pathogen] = {'filtered': None, 'not_filtered': less_filtered_phage_list}
         else:
-            phage_results[pathogen] = {'filtered': filtered_phage_list, 'less_filtered': None}
+            phage_results[pathogen] = {'filtered': filtered_phage_list, 'not_filtered': None}
 
     return phage_results
