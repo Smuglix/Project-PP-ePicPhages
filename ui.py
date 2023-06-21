@@ -19,11 +19,11 @@ if st.button("Find Phage Cocktail"):
 
         for bacteria, phage_result in phage_cocktail.items():
             filtered = phage_result['filtered']
-            less_filtered = phage_result['less_filtered']
+            not_filtered = phage_result['not_filtered']
             if filtered:
                 combined_cocktail.update(filtered)
-            elif less_filtered:
-                combined_cocktail.update(less_filtered)
+            elif not_filtered:
+                combined_cocktail.update(not_filtered)
 
         if combined_cocktail:
             with st.expander("Final Combined Phage Cocktail:"):
@@ -33,14 +33,14 @@ if st.button("Find Phage Cocktail"):
 
         for bacteria, phage_result in phage_cocktail.items():
             filtered = phage_result['filtered']
-            less_filtered = phage_result['less_filtered']
+            not_filtered = phage_result['not_filtered']
             if filtered:
                 with st.expander(f"Filtered phage cocktail for {bacteria}:"):
                     st.write(', '.join(filtered))
-            elif less_filtered:
+            elif not_filtered:
                 with st.expander(
                         f"Not filtered phage cocktail for {bacteria} because we couldn't find phages that doesn't hurt the good ones ¯\_(ツ)_/¯ (remember, these may affect other bacteria as well):"):
-                    st.write(', '.join(less_filtered))
+                    st.write(', '.join(not_filtered))
 
     except Exception as e:
         st.error(
